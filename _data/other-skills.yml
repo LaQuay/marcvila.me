@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Software Development
+  percentage: 100
+  color: dark
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Cloud Development
+  percentage: 100
+  color: dark
+
+- name: Agile Methodologies
+  percentage: 100
+  color: dark

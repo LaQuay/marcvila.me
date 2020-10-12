@@ -4,7 +4,8 @@
   from: 2019
   to: present
   description: >
-    Computer Science department - Information Modeling & Processing.
+    <a href="https://computing.phd.upc.edu/en/phd-data/general-information" target="_blank">Computer Science</a> department - Information Modeling & Processing.
+    <br>
     Monitoring of IoT Industrial Infrastructures through Semantics, Ontologies 
     and Microservices Architectures.
 
@@ -15,6 +16,8 @@
   from: 2016
   to: 2019
   description: >
+    <a href="https://www.fib.upc.edu/en/studies/masters/master-informatics-engineering/curriculum" target="_blank">Master's Curriculum</a>. 
+    Top 3 in the promotion.
 
 - degree: B.Sc Computer Science
   study: Computer Engineering
@@ -23,3 +26,6 @@
   from: 2011
   to: 2016
   description: >
+    <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum" target="_blank">Base degree curriculum</a>. 
+    <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/specializations/computer-engineering">Computer Engineering specialization curriculum</a>. 
+    Top 50 out of 235 in the promotion.
