@@ -1,0 +1,37 @@
+- title: Associate Professor
+  from: 2019
+  to: 2019
+  company: CIFO Hospitalet
+  location: Hospitalet de Llobregat, Spain
+  description: >
+    Teaching the Android part of the Pla: Tècnic/a eines i tecnologies de xarxa mòbils en 5G, from the Generalitat de Catalunya. 
+    Firsts steps for non Android-developers, how Android works, data exploitation 
+    through APIs and data visualization. Combining these elements with an IoT ecosystem, Thingsboard.
+
+- title: Software Engineer
+  from: 2018
+  to: Present
+  company: Worldsensing
+  location: Barcelona, Spain
+  description: >
+    Innovation Dpt. Designing and implementing the software side. Mostly Microservices
+    Architectures, backend development with Docker, Python, Flask, SQL and
+    Timeseries databases. Frontend with React. Mobile development with Android.
+
+- title: Associate Professor
+  from: 2018
+  to: Present
+  company: UPC School
+  location: Barcelona, Spain
+  description: >
+    Teaching the Android part of the <a href="https://www.talent.upc.edu/ing/professionals/presentacio/codi/200100/internet-iot/" target="_blank">Master's Degree in Internet of Things (IoT)</a>. 
+    Firsts steps for non Android-developers, how Android works, data exploitation 
+    through APIs and data visualization. Combining these elements with an IoT ecosystem.
+
+- title: Software Developer 
+  from: 2014
+  to: 2018
+  company: InLab FIB UPC
+  location: Barcelona, Spain
+  description: >
+   Mobile developer, but also in areas like Backend and Frontend.

@@ -32,16 +32,31 @@
       z-index: 10;
     }
 
-    .content {
-      margin: 40px;
-      padding-bottom: 20px;
-      border-bottom: 1px dashed $dark;
+    .content, .content-last {
+			margin: 30px; 
+			// margin-top: 30px; 
+			// margin-bottom: 30px; 
 
-      .date {
-        margin-top: -5px;
-        margin-bottom: 15px;
-        color: #6c757d;
-      }
-    }
+			.head {
+				font-weight: bold;
+				padding-top: 15px;
+			}
+
+			.text {
+				text-align: justify;
+				padding-top: 15px;
+				margin-bottom: 0px;
+			}
+			
+			.date {
+				font-weight: lighter;
+				color: #6c757d;
+			}
+		} 
+
+		.content {
+			border-bottom: 1px dashed $dark;
+			padding-bottom: 25px;
+		}
   }
 }
