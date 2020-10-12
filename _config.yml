@@ -1,0 +1,85 @@
+### Site Settings ###
+title               : Marc Vila
+description         : >-
+                      I turn coffee :coffee: into code,
+                      use tabs over spaces
+                      and never broke production.
+baseurl             : ""
+repository          : LaQuay/marcvila.me
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+### Plugins ###
+plugins:
+  - jemoji
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+### Author Info ###
+author:
+  name              : Marc Vila
+  image             : https://i.imgur.com/uyDNQnn.jpg
+# behance           : your_username
+# dribbble          : your_username
+  email             : hola@marcvila.me
+# facebook          : your_username
+  github            : LaQuay
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : marcvilagomez
+  medium            : laquay
+# soundcloud        : your_username
+# spotify           : your_username
+  stackoverflow     : 4314686
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+### Posts ###
+permalink: /blog/:title
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
+### Disqus ###
+#disqus: your-short-name-disqus                          # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
