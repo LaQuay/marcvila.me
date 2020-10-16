@@ -1,14 +1,13 @@
 ### Site Settings ###
 title               : Marc Vila
 description         : >-
-                      Hi there, my name is <b>Marc Vila</b>. An Spanish software 
-                      engineer, based in Barcelona.
+                      Hi there, I am <b>Marc Vila</b>. A software engineer, based in Barcelona.
                       <br>
                       Industrial Ph.D student in Computer Science at <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a> 
                       and working at <a href='https://www.worldsensing.com/' target='_blank'>Worlsensing</a>. 
                       <br>
                       If you are interested in working with me or anything similar, 
-                      feel free to get in touch with me.
+                      feel free to get in touch.
 baseurl             : ""
 repository          : LaQuay/marcvila.me
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -26,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Marc Vila
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : ./assets/profile.jpg?raw=true
 # behance           : your_username
 # dribbble          : your_username
   email             : hola@marcvila.me

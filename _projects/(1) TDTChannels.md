@@ -13,7 +13,7 @@ The project was born in 2018, when I understood the need to offer the population
 watching television on the Internet, with as many channels as possible, for free, and always legally.
 <br>
 The project has as a source an <a href="https://github.com/LaQuay/TDTChannels" target="_blank">open source database</a> 
-published in GitHub, where people can contribute new links, and I validate them before publishing these links.
+published in GitHub, where people can contribute new links, and I validate them before publishing.
 
 ## Website
 In order to be able to reproduce these collected links, I developed a website in React JS, which also
@@ -33,6 +33,8 @@ you can still see the latest <a href="https://github.com/LaQuay/TDTChannels-APP"
 <img style="float: left" src="https://www.tdtchannels.com/tdtchannels_android_tv_1.png" width="400"/>
 <img style="float: right" src="https://www.tdtchannels.com/tdtchannels_android_tv_2.png" width="400"/>
 </div>
+
+<br>
 
 <p class="text-center">
 {% include elements/button.html link="https://tdtchannels.com/" text="Learn More" %}
