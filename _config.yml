@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Marc Vila
-  image             : ./assets/profile.jpg?raw=true
+  image             : ./assets/profile.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : hola@marcvila.me
