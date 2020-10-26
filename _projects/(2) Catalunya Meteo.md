@@ -1,7 +1,7 @@
 ---
 name: Catalunya Meteo
 tools: [Android]
-image: https://play-lh.googleusercontent.com/EfrkzXwN4kNKyiY2fh8XP21kq0yzaaMlRlL2X6i_Wzuiw70B5tZHif0zMWxnJ2iQNDAc
+image: https://pbs.twimg.com/profile_banners/2427158394/1409224659/1500x500
 description: Forecast, real time data, and meteorological info about Catalonia, Spain, in your Android device!
 ---
 
@@ -15,9 +15,9 @@ Started in 2016, with a college classmate, <a href="https://es.linkedin.com/in/a
 is an application that is still being developed and maintained by us.
 
 <div style="text-align: center;">
-<img style="margin: 0 !important; float: left" src="https://lh3.googleusercontent.com/PgHeFGRwqFOHtew8Y0MnME3_qoMP3BjtuGq9HLK09A_r-SnvXlhfYKKRW5fYvBlaWAo=w1920-h937-rw" width="280"/>
-<img style="margin: 0 !important; display: inline" src="https://lh3.googleusercontent.com/CTYr2fa1FDecYy-0kAdttSUTI7xwMQxiat5OcDk_Qtr96JRlmEPvo6yhQqsrSneArs0=w1920-h937-rw" width="280"/>
-<img style="margin: 0 !important; float: right" src="https://lh3.googleusercontent.com/752XNgb_g7mDZ3qCQC7Vi6fmvL1YjXC1bY6RdjX39VuXjOfz71ohxlPOMccb0w4v8w=w1920-h937-rw" width="280"/>
+<img style="margin: 0 !important; float: left" src="http://www.roviapps.com/wp-content/uploads/2017/10/00_0_home-1.png" width="280"/>
+<img style="margin: 0 !important; display: inline" src="http://www.roviapps.com/wp-content/uploads/2017/10/00_2_home_semanal-1.png" width="280"/>
+<img style="margin: 0 !important; float: right" src="http://www.roviapps.com/wp-content/uploads/2017/10/01_radar-1.png" width="280"/>
 </div>
 
 ## Backend

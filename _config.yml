@@ -3,8 +3,8 @@ title               : Marc Vila
 description         : >-
                       Hi there, I am <b>Marc Vila</b>. A software engineer, based in Barcelona.
                       <br>
-                      Industrial Ph.D student in Computer Science at <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a> 
-                      and working at <a href='https://www.worldsensing.com/' target='_blank'>Worlsensing</a>. 
+                      Industrial Ph.D. student in Computer Science at <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a> 
+                      and at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>. 
                       <br>
                       If you are interested in working with me or anything similar, 
                       feel free to get in touch.
@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Marc Vila
-  image             : ./assets/profile.jpg
+  image             : /assets/img/profile.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : hola@marcvila.me
@@ -41,7 +41,7 @@ author:
   stackoverflow     : 4314686
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-# twitter           : your_username
+  twitter           : GrimmSour
 # vimeo             : your_username
 # youtube           : your_channel_name
 
@@ -53,8 +53,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+  hackathons:
+    output: true
+    permalink: /hackathons/:name
 
 
 ### Disqus ###
@@ -73,6 +74,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "hackathons"
     values:
       layout: "page"
   - scope:
