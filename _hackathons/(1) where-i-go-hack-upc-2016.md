@@ -24,6 +24,7 @@ Where I go will help you taking decisions about your next flight corresponding t
 <img style="margin: 0 !important; float: right" src="/assets/img/hackathons/hackupc_2016_f/screen3.png" width="280"/>
 </div>
 <br>
+
 #### Languages
 - Android in Java
 - SQLite
