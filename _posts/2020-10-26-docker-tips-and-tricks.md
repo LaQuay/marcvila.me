@@ -8,19 +8,24 @@ description: Some tips and tricks about Docker.
 
 Source: [Github - LaQuay / docker-utils](https://github.com/LaQuay/docker-utils)
 
+The purpose of this blog post is to collect the commands that I use the most on a daily basis. Besides
+some advice and/or trick to improve the operation of Docker.
+
 ## Tricks
 
 ### .dockerignore
 
-Before the docker CLI sends the context to the docker daemon, it looks for a file named .dockerignore in the root directory of the context. If this file exists, the CLI modifies the context to exclude files and directories that match patterns in it. *(In my case the reduction is 80 - 90% of bytes)*.
+Before the docker CLI sends the context to the docker daemon, it looks for a file named `.dockerignore`
+in the root directory of the context. If this file exists, the CLI modifies the context to exclude files
+and directories that match patterns in it.
 
-### Example in Python dockerization
+### Example for Python 
 ```
 _env
 .git
 ```
 
-### Example in React dockerization
+### Example for React
 ```
 node_modules
 deploy
@@ -86,4 +91,4 @@ Should pass the name, e.g.: *dbash container_1*
 export DOCKER_CLIENT_TIMEOUT=120
 export COMPOSE_HTTP_TIMEOUT=120
 ```
-Source: https://github.com/docker/compose/issues/3927
+Source: <https://github.com/docker/compose/issues/3927>

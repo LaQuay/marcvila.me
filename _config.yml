@@ -56,18 +56,18 @@ collections:
   hackathons:
     output: true
     permalink: /hackathons/:name
-
+    order:
+      - ionic-fib-hack-upc-2017.md
+      - where-i-go-hack-upc-2016.md
 
 ### Disqus ###
 #disqus: your-short-name-disqus                          # Your website Shortname on disqus
-
 
 ### Analytics ###
 analytics:
   enabled: false                                        # Set true to enable analytics
   google:
     tracking_id: your-google-tracking-id
-
 
 ### Defaults for collections ###
 defaults:
