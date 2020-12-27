@@ -1,6 +1,6 @@
 ---
 name: TellMedLeaflet
-subtitle: HackForGood 2017
+subtitle: HackForGood 2017 - Barcelona (Spain)
 tools: [Android, Express.js, OCR]
 image: /assets/img/hackathons/hackforgood_2017/featured.png
 description: Scan a medical leaflet and the application will speak out loud for you.
@@ -63,7 +63,7 @@ system will take care of everything else.
 
 Role in the project: Android Dev.
 
-Project code: [TellMedLeaflet – HackForGood2017](https://github.com/elorenteg/HackForGood2017).
+Project code: [TellMedLeaflet – GitHub](https://github.com/elorenteg/HackForGood2017).
 
 Appears in:
 

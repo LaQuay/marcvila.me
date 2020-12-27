@@ -1,6 +1,6 @@
 ---
 name: WHERE I GO?
-subtitle: HackUPC Fall 2016
+subtitle: HackUPC Fall 2016 - Barcelona (Spain)
 tools: [Android, APIs]
 image: /assets/img/hackathons/hackupc_2016_f/featured.png
 description: Help you taking decisions about your next flight corresponding to your weather preferences.
@@ -13,7 +13,7 @@ November 2016
 
 ### The hackathon
 
-Official description from [DevPost](https://hackupc2016.devpost.com/):
+Original description from the organizers [HackUPC at Devpost](https://hackupc2016.devpost.com/):
 
 > Over 400 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...
@@ -54,7 +54,7 @@ data with the OpenWeatherMap API to provide the weather information about your n
 
 Role in the project: Android Dev.
 
-Project code: [Where I Go? – Hack UPC Fall 2016](https://github.com/LaQuay/HackUPCFall2016).
+Project code: [Where I Go? – GitHub](https://github.com/LaQuay/HackUPCFall2016).
 
 Appears in:
 

@@ -2,7 +2,7 @@
 
   {% assign ordered_pages = site.hackathons | sort:"order_number" %}
 
-  {% for project in ordered_pages reversed %}
+  {% for project in ordered_pages %}
 
     {%- assign project_type  = "local" -%}
     {%- assign project_id    = project.name | slugify -%}

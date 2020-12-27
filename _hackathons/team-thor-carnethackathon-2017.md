@@ -1,6 +1,6 @@
 ---
 name: Team Thor
-subtitle: Carnet Hackathon 2017
+subtitle: Carnet Hackathon 2017 - Barcelona (Spain)
 tools: [Android, Google Maps]
 image: /assets/img/hackathons/carnethackathon_2017/featured.png
 description:
