@@ -35,10 +35,12 @@ from the user that fits in the selected time.
 <img style="margin: 0 !important; float: right" src="/assets/img/hackathons/hackath2on_2017/screen3.jpg" width="280"/>
 </div>
 <br>
+<br>
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kb5De7Av9mA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 
 #### Languages
 

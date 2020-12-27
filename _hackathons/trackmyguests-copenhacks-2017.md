@@ -3,7 +3,7 @@ name: TrackMyGuests
 subtitle: Copenhacks 2017 - Denmark
 tools: [Angular JS, Python, Flask, Leaflet, Twilio]
 image: /assets/img/hackathons/copenhacks_2017/featured.png
-description: Manage your local events with hosts and SMS services
+description: Manage your local events with hosts and SMS services.
 order_number: 5
 ---
 
