@@ -1,6 +1,6 @@
 ---
 name: WHERE I GO?
-subtitle: HackUPC Fall 2016 - Barcelona (Spain)
+subtitle: HackUPC Fall 2016 - Spain
 tools: [Android, APIs]
 image: /assets/img/hackathons/hackupc_2016_f/featured.png
 description: Help you taking decisions about your next flight corresponding to your weather preferences.
@@ -9,7 +9,7 @@ order_number: 1
 
 # WHERE I GO? – HackUPC Fall 2016
 
-November 2016
+November 2016 - Barcelona (Spain)
 
 ### The hackathon
 
@@ -48,9 +48,9 @@ data with the OpenWeatherMap API to provide the weather information about your n
 
 #### Team
 
-- Marc Vila
-- Alejandro Rosas
 - Ester Lorente
+- Alejandro Rosas
+- Marc Vila
 
 Role in the project: Android Dev.
 

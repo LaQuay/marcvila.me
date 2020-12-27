@@ -1,6 +1,6 @@
 ---
 name: Team Thor
-subtitle: Carnet Hackathon 2017 - Barcelona (Spain)
+subtitle: Carnet Hackathon 2017 - Spain
 tools: [Android, Google Maps]
 image: /assets/img/hackathons/carnethackathon_2017/featured.png
 description:
@@ -11,7 +11,7 @@ order_number: 4
 
 # Team Thor – Carnet Hackathon 2017
 
-March 2017
+March 2017 - Barcelona (Spain)
 
 ### The hackathon
 
@@ -51,10 +51,10 @@ services, he’s rewarded with discounts.
 
 #### Team
 
-- Marc Vila
-- Ester Lorente
-- Francesc De Puig
 - Josep De Cid
+- Francesc De Puig
+- Ester Lorente
+- Marc Vila
 
 Role in the project: Android Dev.
 
@@ -66,6 +66,6 @@ Appears in:
 
 - [Hackathon Mobility Barcelona 2017 - Carnet Barcelona](http://www.carnetbarcelona.com/index.php/2017/03/30/hackathon-mobility-barcelona-2017/)
 
-- [InLab FIB at Hackathon Mobility BCN - InLab FIB UPC](https://inlab.fib.upc.edu/en/blog/linlab-fib-la-hackaton-mobility-bcn) ([CAT](https://inlab.fib.upc.edu/ca/blog/linlab-fib-la-hackaton-mobility-bcn)) ([ESP](https://inlab.fib.upc.edu/es/blog/inlab-fib-la-hackaton-mobility-bcn))
+- [InLab FIB at Hackathon Mobility BCN - InLab FIB UPC](https://inlab.fib.upc.edu/en/blog/linlab-fib-la-hackaton-mobility-bcn) ([CAT](https://inlab.fib.upc.edu/ca/blog/linlab-fib-la-hackaton-mobility-bcn)) ([ES](https://inlab.fib.upc.edu/es/blog/inlab-fib-la-hackaton-mobility-bcn))
 
 Hackathon website: [Hackathon Mobility BCN Carnet](http://www.carnetbarcelona.com/hackathon2017/).

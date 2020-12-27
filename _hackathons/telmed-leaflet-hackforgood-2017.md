@@ -1,6 +1,6 @@
 ---
 name: TellMedLeaflet
-subtitle: HackForGood 2017 - Barcelona (Spain)
+subtitle: HackForGood 2017 - Spain
 tools: [Android, Express.js, OCR]
 image: /assets/img/hackathons/hackforgood_2017/featured.png
 description: Scan a medical leaflet and the application will speak out loud for you.
@@ -9,7 +9,7 @@ order_number: 3
 
 # TellMedLeaflet – HackForGood Barcelona 2017
 
-March 2017
+March 2017 - Barcelona (Spain)
 
 ### The hackathon
 
@@ -56,10 +56,10 @@ system will take care of everything else.
 
 #### Team
 
-- Marc Vila
 - Ester Lorente
 - Juan Salmerón
 - Oriol Serchs
+- Marc Vila
 
 Role in the project: Android Dev.
 
@@ -67,7 +67,7 @@ Project code: [TellMedLeaflet – GitHub](https://github.com/elorenteg/HackForGo
 
 Appears in:
 
-- [Fibers win the first prize in the HackForGood Barcelona 2017 - FIB UPC](http://www.fib.upc.edu/en/fib/school/awards/fibers-win-first-prize-hackforgood-barcelona-2017) ([CAT](http://www.fib.upc.edu/ca/la-fib/la-facultat/premis-i-reconeixements/fibers-guanyen-el-primer-premi-al-hackforgood-barcelona-2017)) ([ESP](http://www.fib.upc.edu/es/la-fib/la-facultad/premios-y-reconocimientos/fibers-ganan-el-primer-premio-en-el-hackforgood-barcelona-2017))
+- [Fibers win the first prize in the HackForGood Barcelona 2017 - FIB UPC](http://www.fib.upc.edu/en/fib/school/awards/fibers-win-first-prize-hackforgood-barcelona-2017) ([CAT](http://www.fib.upc.edu/ca/la-fib/la-facultat/premis-i-reconeixements/fibers-guanyen-el-primer-premi-al-hackforgood-barcelona-2017)) ([ES](http://www.fib.upc.edu/es/la-fib/la-facultad/premios-y-reconocimientos/fibers-ganan-el-primer-premio-en-el-hackforgood-barcelona-2017))
 
 - [Mosaic UOC – HackForGood 2017 (ES)](https://mosaic.uoc.edu/2017/04/04/hackforgood-2017/).
 

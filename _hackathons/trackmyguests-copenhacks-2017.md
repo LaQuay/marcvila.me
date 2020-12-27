@@ -1,6 +1,6 @@
 ---
 name: TrackMyGuests
-subtitle: Copenhacks 2017 - Copenhagen (Denmark)
+subtitle: Copenhacks 2017 - Denmark
 tools: [Angular JS, Python, Flask, Leaflet, Twilio]
 image: /assets/img/hackathons/copenhacks_2017/featured.png
 description: Manage your local events with hosts and SMS services
@@ -9,7 +9,7 @@ order_number: 5
 
 # TrackMyGuests – CopenHacks 2017
 
-April 2017
+April 2017 - Copenhagen (Denmark)
 
 ### The hackathon
 
@@ -58,9 +58,9 @@ the host. That results are shown in a list and also in a map on the web side (ho
 
 #### Team
 
-- Marc Vila
-- Ester Lorente
 - Francesc De Puig
+- Ester Lorente
+- Marc Vila
 
 Role in the project: Angular 2 developer, frontend. And helping with the backend side.
 
