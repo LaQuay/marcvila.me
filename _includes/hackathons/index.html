@@ -1,6 +1,8 @@
 <div class="card-columns m-3 mt-5">
 
-  {% for project in site.hackathons %}
+  {% assign ordered_pages = site.hackathons | sort:"order_number" | reverse %}
+
+  {% for project in ordered_pages %}
 
     {%- assign project_type  = "local" -%}
     {%- assign project_id    = project.name | slugify -%}

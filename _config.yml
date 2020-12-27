@@ -1,49 +1,49 @@
 ### Site Settings ###
-title               : Marc Vila
-description         : >-
-                      Hi there, I am <b>Marc Vila</b>. A software engineer, based in Barcelona.
-                      <br>
-                      Industrial Ph.D. student in Computer Science at <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a> 
-                      and at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>. 
-                      <br>
-                      If you are interested in working with me or anything similar, 
-                      feel free to get in touch.
-baseurl             : ""
-repository          : LaQuay/marcvila.me
-remote_theme        : YoussefRaafatNasry/portfolYOU
+title: Marc Vila
+description: >-
+  Hi there, I am <b>Marc Vila</b>. A software engineer, based in Barcelona.
+  <br>
+  Industrial Ph.D. student in Computer Science at <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a> 
+  and at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>. 
+  <br>
+  If you are interested in working with me or anything similar, 
+  feel free to get in touch.
+baseurl: ""
+repository: LaQuay/marcvila.me
+remote_theme: YoussefRaafatNasry/portfolYOU
 
 ### Plugins ###
 plugins:
   - jemoji
 
 ### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
+nav_exclude: # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
 
 ### Author Info ###
 author:
-  name              : Marc Vila
-  image             : /assets/img/profile.jpg
-# behance           : your_username
-# dribbble          : your_username
-  email             : hola@marcvila.me
-# facebook          : your_username
-  github            : LaQuay
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : marcvilagomez
-  medium            : laquay
-# soundcloud        : your_username
-# spotify           : your_username
-  stackoverflow     : 4314686
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : GrimmSour
-# vimeo             : your_username
-# youtube           : your_channel_name
+  name: Marc Vila
+  image: /assets/img/profile.jpg
+  # behance           : your_username
+  # dribbble          : your_username
+  email: hola@marcvila.me
+  # facebook          : your_username
+  github: LaQuay
+  # gitlab            : your_username
+  # instagram         : your_username
+  # kaggle            : your_username
+  linkedin: marcvilagomez
+  medium: laquay
+  # soundcloud        : your_username
+  # spotify           : your_username
+  stackoverflow: 4314686
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  twitter: GrimmSour
+  # vimeo             : your_username
+  # youtube           : your_channel_name
 
 ### Posts ###
 permalink: /blog/:title
@@ -56,16 +56,13 @@ collections:
   hackathons:
     output: true
     permalink: /hackathons/:name
-    order:
-      - ionic-fib-hack-upc-2017.md
-      - where-i-go-hack-upc-2016.md
 
 ### Disqus ###
-#disqus: your-short-name-disqus                          # Your website Shortname on disqus
+#disqus: your-short-name-disqus # Your website Shortname on disqus
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: false # Set true to enable analytics
   google:
     tracking_id: your-google-tracking-id
 
@@ -85,7 +82,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: false # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:

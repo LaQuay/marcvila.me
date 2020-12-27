@@ -4,21 +4,26 @@ subtitle: HackUPC Fall 2016
 tools: [API, Android]
 image: /assets/img/hackathons/hackupc_2016_f/featured.png
 description: Help you taking decisions about your next flight corresponding to your weather preferences.
+order_number: 1
 ---
 
 # WHERE I GO? – HackUPC Fall 2016
+
 November 2016
 
 ### The hackathon
+
 Official description from [DevPost](https://hackupc2016.devpost.com/):
-> Over 400 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on 
-anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...
+
+> Over 400 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
+> anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...
 
 > Hacking starts at 12:00 AM on Saturday and end at 12:00 PM on Sunday.
 
 ### The solution
+
 Where I go will help you taking decisions about your next flight corresponding to your weather preferences.
-It is an Android application that uses the SkyScanner API, to get the available flights and combine this 
+It is an Android application that uses the SkyScanner API, to get the available flights and combine this
 data with the OpenWeatherMap API to provide the weather information about your next destination.
 
 <div style="text-align: center;">
@@ -29,17 +34,20 @@ data with the OpenWeatherMap API to provide the weather information about your n
 <br>
 
 #### Languages
+
 - Android in Java
 - SQLite
 - HTML
 - XML
 
 #### Technologies
+
 - Skyscanner API
 - WeatherForecast API
 - Google Maps API
 
 #### Team
+
 - Marc Vila
 - Alejandro Rosas
 - Ester Lorente
