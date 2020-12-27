@@ -1,7 +1,7 @@
 ---
 name: TellMedLeaflet
 subtitle: HackForGood 2017
-tools: [Android, Express.js, OCR, Android]
+tools: [Android, Express.js, OCR]
 image: /assets/img/hackathons/hackforgood_2017/featured.png
 description: Scan a medical leaflet and the application will speak out loud for you.
 order_number: 3

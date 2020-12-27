@@ -1,7 +1,7 @@
 ---
 name: WHERE I GO?
 subtitle: HackUPC Fall 2016
-tools: [API, Android]
+tools: [Android, APIs]
 image: /assets/img/hackathons/hackupc_2016_f/featured.png
 description: Help you taking decisions about your next flight corresponding to your weather preferences.
 order_number: 1
@@ -56,6 +56,8 @@ Role in the project: Android Dev.
 
 Project code: [Where I Go? – Hack UPC Fall 2016](https://github.com/LaQuay/HackUPCFall2016).
 
-Appears in: [Winner Hack UPC Fall 2016 – Best usage of Skyscanner API: 2nd prize](https://devpost.com/software/where-i-go).
+Appears in:
+
+- [Winner Hack UPC Fall 2016 – Best usage of Skyscanner API: 2nd prize](https://devpost.com/software/where-i-go).
 
 Hackathon website: [HackUPC 2016 Fall](https://f2016.hackupc.com/).

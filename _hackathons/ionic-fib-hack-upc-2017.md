@@ -1,7 +1,7 @@
 ---
 name: IonicFIB
 subtitle: HackUPC Winter 2017
-tools: [Ionic, OAuth, API, Typescript, Android]
+tools: [Android, Ionic, Typescript, OAuth, API]
 image: /assets/img/hackathons/hackupc_2017_w/featured.png
 description: Client for FIB Racó made with Ionic v2. Authenticate and check user planning and alerts.
 order_number: 2
@@ -60,6 +60,8 @@ Role in the project: Ionic v2 for Android Dev.
 
 Project code: [IonicFIB – Hack UPC Winter 2017](https://github.com/LaQuay/IonicFIB).
 
-Appears in: [Winner Hack UPC Winter 2017 – FIB API Challenge: 1st prize](https://devpost.com/software/ionicfib-kv0xbj).
+Appears in:
+
+- [Winner Hack UPC Winter 2017 – FIB API Challenge: 1st prize](https://devpost.com/software/ionicfib-kv0xbj).
 
 Hackathon website: [HackUPC 2017 Winter](https://w2017.hackupc.com/).
