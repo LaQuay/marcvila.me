@@ -7,7 +7,7 @@ description: Solution to measure the consumption of water from the shower linked
 order_number: 6
 ---
 
-# Save&Sound – HackatH2On 2017 2017
+# Save&Sound – HackatH2On 2017
 
 May 2017 - Cornellà de Llobregat (Spain)
 
@@ -19,7 +19,7 @@ Original description from the organizers, [Aigües de Barcelona](http://www.hack
 > live together during an intense weekend with the mission of fulfilling 3 water-related challenges
 > with infinite possibilities!
 
-> Hacking starts at 09:00 AM on Saturday and end at 16:00 AM on Sunday.
+> Hacking starts at 09:00 AM on Saturday and end at 16:00 PM on Sunday.
 
 ### The solution
 

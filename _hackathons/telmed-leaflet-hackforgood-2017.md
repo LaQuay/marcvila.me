@@ -52,7 +52,7 @@ system will take care of everything else.
 #### Technologies
 
 - Google Camera OCR
-- AEMPS information for meds.
+- AEMPS information for meds
 
 #### Team
 

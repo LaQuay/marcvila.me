@@ -20,7 +20,7 @@ Original description from the organizers, [CopenHacks at Devpost](https://copenh
 > to be able to code it yourself. Now you have the chance to dedicate 24 hours on this project or idea.
 > The only condition is: You will only be judged on what you write within these 24 hours. ...
 
-> Hacking starts at 9:00 AM on Saturday and end at 16:00 AM on Sunday.
+> Hacking starts at 9:00 AM on Saturday and end at 16:00 PM on Sunday.
 
 ### The solution
 

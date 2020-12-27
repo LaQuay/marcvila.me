@@ -21,7 +21,7 @@ Original description from the organizers, [Carnet Barcelona](http://www.carnetba
 > This Hackathon was not only a great learning and networking experience, but also an opportunity to help
 > actively define the future of mobility and create a lasting impact.
 
-> Hacking starts at 10:00 AM on Saturday and end at 14:00 AM on Sunday.
+> Hacking starts at 10:00 AM on Saturday and end at 14:00 PM on Sunday.
 
 ### The solution
 
