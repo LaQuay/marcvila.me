@@ -1,7 +1,7 @@
 ---
 name: TDTChannels
 tools: [Open Source, Web, Android, React]
-image: https://eldiario.news/img/2020/07/06/73f97c1ba4e00999956c766a461c6132_400x266.jpg
+image: https://pbs.twimg.com/profile_banners/1247826931732578306/1586354529/1500x500
 description: See the Spanish Television and Radio, legal, free, online.
 ---
 
