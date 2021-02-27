@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi! I am **{{ site.author.name }}** :wave:,<br>
+Hi!:wave: I am **{{ site.author.name }}**,<br>
 A Computer Science Engineer based in Barcelona. Industrial Ph.D. student in Computer Science at
 <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a> and working at
 <a href='https://www.worldsensing.com/' target='_blank'>Worlsensing</a>. If you are interested in working
