@@ -2,6 +2,13 @@
 
   {%- assign unfocused_color = "6c757d" -%}
 
+  <a class="social mx-1" href="mailto:h#ol##a@###m##ar#cv#i#la@@me"
+    style="color: #6c757d"
+    onMouseOver="this.href=this.href.replaceAll('#','');this.href=this.href.replace('@@','.');this.style.color='#db4437'"
+    onMouseOut="this.style.color='#6c757d'">
+    <i class="fas fa-envelope fa-1x"></i>
+  </a>
+
   {% for account in site.author %}
 
     {%- assign service_name = account[0] -%}
