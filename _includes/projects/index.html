@@ -1,6 +1,3 @@
-<!-- Remote Projects JS -->
-<script src="{{ '/assets/js/remote-projects.js' | relative_url }}"></script>
-
 <div class="card-columns m-3 mt-5">
 
   <!-- Remote Projects -->
@@ -22,10 +19,9 @@
         {%- assign project_name = titlecase | strip -%}
         {%- assign project_desc = project.description -%}
         {%- assign project_url  = project.html_url -%}
+        {%- assign project_tools = project.topics -%}
 
         {% include projects/project-card.html %}
-
-        <script>get_tools("{{ site.github.owner_name }}/{{ remote_project }}")</script>
       {%- endif -%}
     {%- endfor -%}
   {% endfor %}
