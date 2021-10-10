@@ -1,11 +1,14 @@
 - name: Software Development
   percentage: 100
+  showPercentage: false
   color: dark
 
 - name: Cloud Development
   percentage: 100
+  showPercentage: false
   color: dark
 
 - name: Agile Methodologies
   percentage: 100
+  showPercentage: false
   color: dark

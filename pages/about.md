@@ -14,8 +14,8 @@ A Computer Science Engineer based in Barcelona. Industrial Ph.D. student in Comp
 with me or anything similar, feel free to get in touch with me.
 
 <div class="row">
-{% include about/skills_no_perc.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills_no_perc.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 And many more, such as: Java, Nginx, InfluxDB, NodeJS, C++, C, SQL, HTML, XML, CSS, ...
 

@@ -1,15 +1,19 @@
 - name: Python
   percentage: 90
+  showPercentage: false
   color: success
 
 - name: Docker
   percentage: 80
+  showPercentage: false
   color: primary
 
 - name: Android
   percentage: 80
+  showPercentage: false
   color: warning
 
 - name: React JS
   percentage: 60
+  showPercentage: false
   color: info
