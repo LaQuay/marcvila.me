@@ -92,4 +92,4 @@ Appears in:
 
 - [Els hackers de l'inLab son premiats a la HackUPC 2017 Fall Edition (CAT)](https://inlab.fib.upc.edu/ca/blog/els-hackers-de-linlab-son-premiats-la-hackupc-2017-fall-edition)
 
-Hackathon website: [HackUPC Fall 2017 - DevPost](https://hackupc2017f.devpost.com/).
+Hackathon website: [HackUPC Fall 2017 - Devpost](https://hackupc2017f.devpost.com/).

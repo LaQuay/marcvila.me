@@ -65,7 +65,7 @@ Project code: [McTrack - GitHub](https://github.com/LaQuay/McTrack).
 
 Appears in:
 
-- [DevPost - McTrack](https://devpost.com/software/mctrack-advertising)
+- [Devpost - McTrack](https://devpost.com/software/mctrack-advertising)
 
 - [Fibers in the HackPrague 2017 - FIB UPC](https://www.fib.upc.edu/en/fib/school/awards/fibers-hackprague-2017) ([CAT](https://www.fib.upc.edu/ca/la-fib/la-facultat/premis-i-reconeixements/fibers-la-hackprague-2017)) ([ES](https://www.fib.upc.edu/es/la-fib/la-facultad/premios-y-reconocimientos/fibers-en-la-hackprague-2017))
 
