@@ -18,7 +18,7 @@ Original description from the organizers [HackUPC at Devpost](https://hackupc201
 > Over 400 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...
 
-> Hacking starts at 12:00 AM on Saturday and end at 12:00 PM on Sunday.
+> Hacking starts at 12:00 AM on Saturday and ends at 12:00 PM on Sunday.
 
 ### The solution
 

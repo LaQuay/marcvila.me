@@ -4,7 +4,7 @@ subtitle: Carnet Hackathon 2017 - Spain
 tools: [Android, Google Maps]
 image: /assets/img/hackathons/carnethackathon_2017/featured.png
 description:
-  Solution for services around microcities, in order to facilitate access to services around
+  Services around microcities, in order to facilitate access to services around
   large parking areas in Barcelona.
 order_number: 4
 ---
@@ -21,7 +21,7 @@ Original description from the organizers, [Carnet Barcelona](http://www.carnetba
 > This Hackathon was not only a great learning and networking experience, but also an opportunity to help
 > actively define the future of mobility and create a lasting impact.
 
-> Hacking starts at 10:00 AM on Saturday and end at 14:00 PM on Sunday.
+> Hacking starts at 10:00 AM on Saturday and ends at 14:00 PM on Sunday.
 
 ### The solution
 
@@ -66,6 +66,6 @@ Appears in:
 
 - [Hackathon Mobility Barcelona 2017 - Carnet Barcelona](http://www.carnetbarcelona.com/index.php/2017/03/30/hackathon-mobility-barcelona-2017/)
 
-- [InLab FIB at Hackathon Mobility BCN - InLab FIB UPC](https://inlab.fib.upc.edu/en/blog/linlab-fib-la-hackaton-mobility-bcn) ([CAT](https://inlab.fib.upc.edu/ca/blog/linlab-fib-la-hackaton-mobility-bcn)) ([ES](https://inlab.fib.upc.edu/es/blog/inlab-fib-la-hackaton-mobility-bcn))
+- [InLab FIB at Hackathon Mobility BCN 2017 - InLab FIB UPC](https://inlab.fib.upc.edu/en/blog/linlab-fib-la-hackaton-mobility-bcn) ([CAT](https://inlab.fib.upc.edu/ca/blog/linlab-fib-la-hackaton-mobility-bcn)) ([ES](https://inlab.fib.upc.edu/es/blog/inlab-fib-la-hackaton-mobility-bcn))
 
-Hackathon website: [Hackathon Mobility BCN Carnet](http://www.carnetbarcelona.com/hackathon2017/).
+Hackathon website: [Hackathon Mobility BCN 2017](http://www.carnetbarcelona.com/hackathon2017/).

@@ -18,7 +18,7 @@ Original description from the organizers, [Lauzhack 2017](https://2017.lauzhack.
 
 > Come and join over 200 like-minded students hacking together during a weekend to make something amazing!
 
-> Hacking starts at 12:01 PM on Saturday and end at 12:01 PM on Sunday.
+> Hacking starts at 12:01 PM on Saturday and ends at 12:01 PM on Sunday.
 
 ### The solution
 

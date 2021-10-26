@@ -4,8 +4,8 @@ subtitle: HackUPC Fall 2017 - Barcelona
 tools: [Android, Machine Learning, IBM Watson, OCR, Google Maps]
 image: /assets/img/hackathons/hackupc_2017_f/featured.png
 description:
-  Android Application that helps blind or visually impaired people to move around the city
-  and perform simple tasks of daily life using only basic tools such as geolocation, voice
+  Android app that helps blind or visually impaired people to move around the city.
+  Perform simple day-to-day tasks using only basic tools such as geolocation, voice
   recognition or the camera.
 order_number: 8
 ---
@@ -21,7 +21,7 @@ Original description from the organizers, [HackUPC Fall 2017](https://hackupc201
 > Over 700 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...
 
-> Hacking starts at 09:00 PM on Friday and end at 09:00 AM on Sunday.
+> Hacking starts at 09:00 PM on Friday and ends at 09:00 AM on Sunday.
 
 ### The solution
 

@@ -19,7 +19,7 @@ Original description from one of the organizers, [UOC](https://mosaic.uoc.edu/20
 > and designers to build applications and services that make massive use of data and aim to create
 > a social impact and build a better world.
 
-> Hacking starts at 10:00 AM on Friday and end at 11:00 AM on Saturday.
+> Hacking starts at 10:00 AM on Friday and ends at 11:00 AM on Saturday.
 
 ### The solution
 

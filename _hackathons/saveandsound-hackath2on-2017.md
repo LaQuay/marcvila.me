@@ -3,7 +3,7 @@ name: Save&Sound
 subtitle: HackatH2On 2017 - Spain
 tools: [Android, Spotify]
 image: /assets/img/hackathons/hackath2on_2017/featured.jpg
-description: Solution to measure the consumption of water from the shower linked with a music feature such as Spotify.
+description: Measure the consumption of water from the shower linked with a music feature such as Spotify.
 order_number: 6
 ---
 
@@ -19,7 +19,7 @@ Original description from the organizers, [Aigües de Barcelona](http://www.hack
 > live together during an intense weekend with the mission of fulfilling 3 water-related challenges
 > with infinite possibilities!
 
-> Hacking starts at 09:00 AM on Saturday and end at 16:00 PM on Sunday.
+> Hacking starts at 09:00 AM on Saturday and ends at 16:00 PM on Sunday.
 
 ### The solution
 

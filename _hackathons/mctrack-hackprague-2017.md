@@ -20,7 +20,7 @@ Original description from the organizers, [HackPrague 2017](https://hackprague-2
 > Facebook, Google, Avast, and more. You will have the opportunity to interact directly with these
 > companies in exchanging ideas, seeking mentorship, or impressing them with your projects.
 
-> Hacking starts at 09:00 AM on Saturday and end at 18:00 PM on Sunday.
+> Hacking starts at 09:00 AM on Saturday and ends at 18:00 PM on Sunday.
 
 ### The solution
 

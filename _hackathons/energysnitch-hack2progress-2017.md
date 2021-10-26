@@ -22,7 +22,7 @@ Tras el éxito de las ediciones pasadas, ¡repetimos experiencia!
 
 III Edición Hack2Progress 2017 organizada por CIC y con la coorganización de la Universidad de Cantabria!
 
-> Hacking starts at 12:01 PM on Saturday and end at 12:01 PM on Sunday.
+> Hacking starts at 12:01 PM on Saturday and ends at 12:01 PM on Sunday.
 
 ### The solution
 
