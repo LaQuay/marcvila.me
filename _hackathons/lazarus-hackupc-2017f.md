@@ -1,6 +1,6 @@
 ---
 name: Lazarus
-subtitle: HackUPC Fall 2017 - Barcelona
+subtitle: HackUPC Fall 2017 - Spain
 tools: [Android, Machine Learning, IBM Watson, OCR, Google Maps]
 image: /assets/img/hackathons/hackupc_2017_f/featured.png
 description:
@@ -16,7 +16,7 @@ October 2017 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers, [HackUPC Fall 2017](https://hackupc2017f.devpost.com/):
+Original event description:
 
 > Over 700 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...

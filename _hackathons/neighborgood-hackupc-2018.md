@@ -14,7 +14,7 @@ October 2018 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers [HackUPC at Devpost](https://hackupc2018.devpost.com/):
+Original event description:
 
 > BarcelonaTech student Hackathon. 700 hackers. 36 hours. Dream it. Hack it. Ship it.
 

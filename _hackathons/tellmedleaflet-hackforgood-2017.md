@@ -13,7 +13,7 @@ March 2017 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from one of the organizers, [UOC](https://mosaic.uoc.edu/2017/04/04/hackforgood-2017/):
+Original event description:
 
 > ... Organised by Telefónica's network of Chairs and which brought together over 1000 developers
 > and designers to build applications and services that make massive use of data and aim to create

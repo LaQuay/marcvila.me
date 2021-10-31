@@ -13,7 +13,7 @@ March 2017 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers, [HackUPC at DevPost](https://hackupc2017w.devpost.com/):
+Original event description:
 
 > Over 500 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...

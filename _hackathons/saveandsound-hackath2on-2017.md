@@ -13,7 +13,7 @@ May 2017 - Cornellà de Llobregat (Spain)
 
 ### The hackathon
 
-Original description from the organizers, [Aigües de Barcelona](http://www.hackath2on.es/):
+Original event description:
 
 > ... We invite you to participate in a unique event, overflowing with creativity, in which 20 teams
 > live together during an intense weekend with the mission of fulfilling 3 water-related challenges

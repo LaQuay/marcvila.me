@@ -14,7 +14,7 @@ February 2018 - Mataró (Spain)
 
 ### The hackathon
 
-Original description from the organizers:
+Original event description:
 
 > El TecnoCampus, l’Ajuntament de Mataró i Som Mobilitat convoquen la segona edició del SomHackathon TecnoCampus Mataró, on  l’objectiu és potenciar la innovació, el talent i el desenvolupament de noves idees en l’àmbit de la mobilitat del territori mitjançant el desenvolupament d’aplicacions. 
 

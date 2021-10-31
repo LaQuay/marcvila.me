@@ -14,7 +14,7 @@ March 2018 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers, [Carnet Barcelona](http://www.carnetbarcelona.com/hackathon2018/):
+Original event description:
 
 > ... The Hackathon focuses on these aspects: how we will move, our experience while on the move, and the services derived from our movements. At CARNET, we want to promote new ideas for the future of mobility, offering attendees the chance to participate in the Hackathon. This creative event includes tutorials on key technologies. A wide range of devices will be available for use, and key data will be provided to validate the solutions that are developed.
 

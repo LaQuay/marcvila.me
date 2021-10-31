@@ -13,7 +13,7 @@ June 2017 - Prague (Czech Republic)
 
 ### The hackathon
 
-Original description from the organizers, [HackPrague 2017](https://hackprague-2017.devpost.com/):
+Original event description:
 
 > ... For 36 hours, HackPrague will bring together 150 passionate developers and designers from
 > across Europe to create cool software and hardware projects. {...} judges from companies like

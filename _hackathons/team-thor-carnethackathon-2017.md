@@ -15,7 +15,7 @@ March 2017 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers, [Carnet Barcelona](http://www.carnetbarcelona.com/index.php/2017/03/30/hackathon-mobility-barcelona-2017/):
+Original event description:
 
 > ... Student teams enjoyed the opportunity to prove themselves and showcase their wide range of abilities.
 > This Hackathon was not only a great learning and networking experience, but also an opportunity to help

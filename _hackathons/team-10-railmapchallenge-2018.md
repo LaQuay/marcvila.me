@@ -14,7 +14,7 @@ October 2018 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers:
+Original event description:
 
 > ... ATM and SmartCatalonia organize the RAIL MAP CHALLENGE, which for 24 hours will host the best experts in usability, design and programming to make the rail transport map of Barcelona one of the best in the world. The aim of the Hackathon is to build a solution for mobile phones.
 

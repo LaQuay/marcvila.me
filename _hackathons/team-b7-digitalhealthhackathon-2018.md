@@ -14,7 +14,7 @@ June 2018 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers:
+Original event description:
 
 > ... Desarrollar el primer algoritmo que permita predecir la probabilidad de que pacientes con cáncer desarrollen una infección por una bacteria resistente a los antibióticos convencionales es el objetivo del primer "Hackathon", que este fin de semana celebrará el Hospital Clínic de Barcelona.
 

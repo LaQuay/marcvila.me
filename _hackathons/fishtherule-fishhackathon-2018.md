@@ -14,7 +14,7 @@ February 2018 - Cádiz (Spain)
 
 ### The hackathon
 
-Original description from the organizers:
+Original event description:
 
 > La Universidad de Cádiz (UCA), el Campus de Excelencia Internacional del Mar (CeiMar) y la Embajada de Estados Unidos en España, con la colaboración del Instituto Español de Oceanografía, el Ministerio de Agricultura y Pesca, Alimentación, y Medio Ambiente y Santander Universidades, celebrarán por primera vez en la provincia gaditana los días 10 y 11 de febrero la iniciativa ‘Fishackathon 2018’.
 

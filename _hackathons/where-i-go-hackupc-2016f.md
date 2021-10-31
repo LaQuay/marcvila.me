@@ -13,7 +13,7 @@ November 2016 - Barcelona (Spain)
 
 ### The hackathon
 
-Original description from the organizers [HackUPC at Devpost](https://hackupc2016.devpost.com/):
+Original event description:
 
 > Over 400 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...

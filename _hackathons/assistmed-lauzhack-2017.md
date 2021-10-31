@@ -14,7 +14,7 @@ November 2017 - Laussane (Switzerland)
 
 ### The hackathon
 
-Original description from the organizers, [Lauzhack 2017](https://2017.lauzhack.com):
+Original event description:
 
 > Come and join over 200 like-minded students hacking together during a weekend to make something amazing!
 

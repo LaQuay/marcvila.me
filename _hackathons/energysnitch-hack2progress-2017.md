@@ -14,7 +14,7 @@ November 2017 - Santander (Spain)
 
 ### The hackathon
 
-Original description from the organizers:
+Original event description:
 
 > ¿Cómo las ciencias del comportamiento pueden reducir los gastos de energía?
 

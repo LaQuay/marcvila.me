@@ -13,7 +13,7 @@ April 2017 - Copenhagen (Denmark)
 
 ### The hackathon
 
-Original description from the organizers, [CopenHacks at Devpost](https://copenhacks.devpost.com/):
+Original event description:
 
 > ... 24h of Hacking - Have you ever wanted to code a great idea but haven't been able to set aside
 > the time to actually build it? Or perhaps you had a fantastic idea but lacked the technical ability
