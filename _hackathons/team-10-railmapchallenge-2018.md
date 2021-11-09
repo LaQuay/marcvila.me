@@ -1,7 +1,7 @@
 ---
 name: Team 10 'Koalas'
 subtitle: Railmapchallenge Hackathon 2018 - Spain
-tools: [Python, Android, Docker, Mapbox, GTFS]
+tools: [2nd Place Global, Python, Android, Docker, Mapbox, GTFS]
 image: /assets/img/hackathons/railmapchallenge_2018/featured.png
 description:
   Web-app for conmuting, public transportation delays and alternatives.
@@ -52,6 +52,8 @@ Original event description:
 - Ester Lorente
 - Pau Torrents
 - Marc Vila
+
+Hackathon result: 2nd position.
 
 Role in the project: Backend + Docker + Android Developer.
 

@@ -1,7 +1,7 @@
 ---
 name: Neighborgood
 subtitle: HackUPC 2018 - Spain
-tools: [React, Serverless, DynamoDB, Lambda]
+tools: [1st Place in 2 Challenges, React, Serverless, DynamoDB, Lambda]
 image: /assets/img/hackathons/hackupc_2018/featured.png
 description:
    Web-app that compares the different neighborhoods of Barcelona based on different criteria (environment, economic, population, security).
@@ -61,6 +61,8 @@ We use the data that Barcelona Open Data offers as source of information. This i
 - Sandra Martín
 - Juan Salmerón
 - Marc Vila
+
+Hackathon result: 1st position in Amazon Web Services Challenge. 1st position in Bloomberg Challenge.
 
 Role in the project: Backend.
 

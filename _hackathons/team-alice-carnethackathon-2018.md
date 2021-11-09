@@ -1,7 +1,7 @@
 ---
 name: Team Alice
 subtitle: Carnet Hackathon 2018 - Spain
-tools: [Arduino, Android, Google Voice]
+tools: [1st Place Global and in Challenge, Arduino, Android, Google Voice]
 image: /assets/img/hackathons/carnethackathon_2018/featured.jpg
 description:
   Smart blind cane and a mobile application, guides them while walking around the city.
@@ -63,6 +63,8 @@ It’s a reality that moving on a city today is dangerous. It’s dangerous beca
 - Sandra Martín
 - Juan Salmerón
 - Marc Vila
+
+Hackathon result: 1st position in Social Mobility. 1st position in Sparsity Challenge.
 
 Role in the project: Arduino + Android Dev.
 

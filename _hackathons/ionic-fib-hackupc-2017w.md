@@ -1,7 +1,7 @@
 ---
 name: IonicFIB
 subtitle: HackUPC Winter 2017 - Spain
-tools: [Android, Ionic, Typescript, OAuth, API]
+tools: [1st Place in Challenge, Android, Ionic, Typescript, OAuth, API]
 image: /assets/img/hackathons/hackupc_2017_w/featured.png
 description: Client for FIB Racó made with Ionic v2. Authenticate and check user planning and alerts.
 order_number: 2
@@ -55,6 +55,8 @@ part and the private part, which requires an OAuth authentication.
 
 - Ester Lorente
 - Marc Vila
+
+Hackathon result: 1st position in FIB Challenge.
 
 Role in the project: Ionic v2 for Android Dev.
 

@@ -1,11 +1,11 @@
 ---
 name: SomAparcament
 subtitle: SomHackathon 2018 - Spain
-tools: [Android, Flask, SQLite, Javascript]
+tools: [2nd Place Global, Android, Flask, SQLite, Javascript]
 image: /assets/img/hackathons/somhackathon_2018/featured.png
 description:
   Improve the mobility of urban spaces, through the management, monitoring and analysis of the use of limited parking areas.
-order_number: 12
+order_number: 11
 ---
 
 # SomAparcament – SomHackathon 2018
@@ -62,6 +62,8 @@ This solution is collaborative for the common benefit. And it differs from the e
 - Sergio Paredes
 - Juan José Vázquez
 - Marc Vila
+
+Hackathon result: 2nd position.
 
 Role in the project: Android Developer.
 

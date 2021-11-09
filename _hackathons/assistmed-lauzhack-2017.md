@@ -75,6 +75,8 @@ Also, the videoconferences are built using the Cisco Spark Meetings to connect t
 - Sergio Paredes
 - Marc Vila
 
+Hackathon result: -.
+
 Role in the project: Android Developer.
 
 Project code: Not available.

@@ -5,7 +5,7 @@ tools: [Android, ExpressJS, MongoDB]
 image: /assets/img/hackathons/fishackathon_2018/featured.png
 description:
   Make fishers aware of relevant laws and requirements that apply to the areas they work.
-order_number: 11
+order_number: 12
 ---
 
 # FishTheRule – Fishackathon 2018
@@ -63,6 +63,8 @@ Every day fishers around the world break maritime laws for many reasons, some fo
 - Ester Lorente
 - Sandra Martín
 - Marc Vila
+
+Hackathon result: -.
 
 Role in the project: Android Developer and AR.
 

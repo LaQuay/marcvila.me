@@ -62,6 +62,8 @@ the host. That results are shown in a list and also in a map on the web side (ho
 - Ester Lorente
 - Marc Vila
 
+Hackathon result: -.
+
 Role in the project: Angular 2 developer, frontend. And helping with the backend side.
 
 Project code: [TrackMyGuests - GitHub](https://github.com/elorenteg/copenhacks17).

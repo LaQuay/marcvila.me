@@ -1,7 +1,7 @@
 ---
 name: Team Thor
 subtitle: Carnet Hackathon 2017 - Spain
-tools: [Android, Google Maps]
+tools: [1st Place in Challenge, Android, Google Maps]
 image: /assets/img/hackathons/carnethackathon_2017/featured.png
 description:
   Services around microcities, in order to facilitate access to services around
@@ -55,6 +55,8 @@ services, he’s rewarded with discounts.
 - Francesc De Puig
 - Ester Lorente
 - Marc Vila
+
+Hackathon result: 1st position in Smart Mobility Challenge.
 
 Role in the project: Android Dev.
 

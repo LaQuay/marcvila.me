@@ -1,7 +1,7 @@
 ---
 name: WHERE I GO?
 subtitle: HackUPC Fall 2016 - Spain
-tools: [Android, APIs]
+tools: [2nd Place, Android, APIs]
 image: /assets/img/hackathons/hackupc_2016_f/featured.png
 description: Help you taking decisions about your next flight corresponding to your weather preferences.
 order_number: 1
@@ -51,6 +51,9 @@ data with the OpenWeatherMap API to provide the weather information about your n
 - Ester Lorente
 - Alejandro Rosas
 - Marc Vila
+
+
+Hackathon result: 2nd position in Skyscanner Challenge.
 
 Role in the project: Android Dev.
 

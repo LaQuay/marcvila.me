@@ -59,6 +59,8 @@ ads to them.
 - Juan Salmerón
 - Marc Vila
 
+Hackathon result: -.
+
 Role in the project: Android Kotlin and frontend developer.
 
 Project code: [McTrack - GitHub](https://github.com/LaQuay/McTrack).

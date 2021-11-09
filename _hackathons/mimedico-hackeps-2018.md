@@ -1,7 +1,7 @@
 ---
 name: Mi Médico
 subtitle: HackEPS 2018 - Spain
-tools: [Amazon Lambda, Amazon Alexa, Serverless]
+tools: [1st Place in Challenge, Amazon Lambda, Amazon Alexa, Serverless]
 image: /assets/img/hackathons/hackeps_2018/featured.png
 description:
   Amazon Alexa skill to help people doing (easy) medical tasks.
@@ -63,6 +63,8 @@ Mi médico puede ser un producto interesante para clínicas, mutuas, comunidades
 - Sandra Martin
 - Juan Salmerón
 - Marc Vila
+
+Hackathon result: 1st position on Xtrategics Challenge.
 
 Role in the project: Backend code using Amazon Lambda.
 

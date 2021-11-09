@@ -58,6 +58,8 @@ Also, we developed a basic Front-End (in AngularJS) in which the user is able to
 - Juan José Vázquez
 - Marc Vila
 
+Hackathon result: -.
+
 Role in the project: Front-End (AngularJS), Android Developer.
 
 Project code: [Energy Snitch - GitHub](https://github.com/mapu77/hack2progress).

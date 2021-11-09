@@ -1,7 +1,7 @@
 ---
 name: Team B7
 subtitle: Digital Health Hackathon 2018 - Spain
-tools: [Python, Machine Learning]
+tools: [1st Place Global, Python, Machine Learning]
 image: /assets/img/hackathons/digitalhealthhackathon_2018/featured.jpg
 description:
   Develop a Machine Learning algorithm to predict which patients with neutropenia are most likely to develop multi-drug resistant bacteremia.
@@ -42,6 +42,8 @@ Hematological patients face a daily threat. Due to certain cancer treatments, th
 - Fabian Steuer
 - Juan José Vázquez
 - Marc Vila
+
+Hackathon result: 1st position.
 
 Role in the project: Data + Backend.
 

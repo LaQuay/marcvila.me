@@ -1,7 +1,7 @@
 ---
 name: On City
 subtitle: HackaTown 2018 - Spain
-tools: [Android, Google Cloud, Open Data]
+tools: [1st Place Global, Android, Google Cloud, Open Data]
 image: /assets/img/hackathons/hackatown_2018/featured.png
 description:
   Android app that shows information related to EV stations, guides, offers, and more!
@@ -54,6 +54,8 @@ We have created two offering services in the BIGIoT MarketPlace with Barcelona O
 - Ester Lorente
 - Sandra Martin
 - Marc Vila
+
+Hackathon result: 1st position.
 
 Role in the project: Android Developer and Backend Developer.
 
