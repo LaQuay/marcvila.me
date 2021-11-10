@@ -1,7 +1,7 @@
 ---
 name: WHERE I GO?
 subtitle: HackUPC Fall 2016 - Spain
-tools: [2nd Place, Android, APIs]
+tools: [2nd Place in Challenge, Android, APIs]
 image: /assets/img/hackathons/hackupc_2016_f/featured.png
 description: Help you taking decisions about your next flight corresponding to your weather preferences.
 order_number: 1
