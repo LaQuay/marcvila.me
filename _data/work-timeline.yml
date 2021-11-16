@@ -34,4 +34,38 @@
   company: InLab FIB UPC
   location: Barcelona, Spain
   description: >
-    Mobile developer, but also in areas like Backend and Frontend.
+    Mobile developer, but also in other areas as Backend, Frontend, and DevOps. Main projects:
+    <br><br>
+    - 2017 to 2018: Helping a Catalan Startup in the IoT Healthcare domain. Also in full-stack development and deployment.
+    <br>
+    - 2015 to 2017: SEAT Parkfinder - Developing an Android application for SEAT Connected Car vehicles.
+      The app communicates with the Infotainment system of the vehicle, using the MirrorLink system, and allows to locate parking spots in Barcelona. 
+      Consuming from several APIs, in the frame of the European iCity project about Smart-Cities. (<a href="/assets/img/works/inlab/screen_seat_parkfinder_1.jpg" target="_blank">Screenshot 1</a>, 
+      <a href="/assets/img/works/inlab/screen_seat_parkfinder_2.png" target="_blank">Screenshot 2</a>,
+      <a href="/assets/img/works/inlab/screen_seat_parkfinder_3.png" target="_blank">Screenshot 3</a>,
+      <a href="/assets/img/works/inlab/screen_seat_parkfinder_4.png" target="_blank">Screenshot 4</a>,
+      <a href="/assets/img/works/inlab/screen_seat_parkfinder_5.png" target="_blank">Screenshot 5</a>) 
+      (<a href="https://inlab.fib.upc.edu/es/parkfinder" target="_blank">InLab</a>,
+      <a href="https://www.elperiodico.com/es/economia/20151120/seat-prueba-en-barcelona-una-aplicacion-para-encontrar-parking-en-la-calle-4687063" target="_blank">El Periódico</a>,
+      <a href="https://www.lavanguardia.com/ocio/20151121/30305085094/seat-aparcamiento-encontrar-ciudad-parkfinder-aplicacion-dificultades-app-icity.html" target="_blank">La Vanguardia</a>,
+      <a href="https://cronicaglobal.elespanol.com/business/parkfinder-se-acabo-dar-vueltas-para-buscar-aparcamiento_63686_102.html" target="_blank">Crónica Global</a>,
+      <a href="https://www.lasexta.com/motor/estilo/la-app-parkfinder-mejor-innovacion-entre-las-122-presentadas-por-los-empleados-de-seat_201610175a9664690cf2586cf843c8b0.html" target="_blank">La Sexta</a>,
+      <a href="https://www.abc.es/motor/reportajes/abci-seat-como-aparcar-sin-perder-nervios-201511211315_noticia.html" target="_blank">ABC</a>,
+      <a href="https://okdiario.com/motor/seat-parkfinder-aplicacion-2848755" target="_blank">OK Diario</a>,
+      <a href="https://www.hoy.es/motor/seat/reportajes/seat-ateca-smart-city-20161114140951-rc.html" target="_blank">Hoy.es</a>,
+      <a href="https://www.autopista.es/tecnologia/seat-ateca-smart-city-car-el-suv-mas-listo-en-ciudad_144716_102.html" target="_blank">Autopista</a>,
+      <a href="https://ajuntament.barcelona.cat/premsa/2014/11/12/barcelona-desplega-el-primer-smart-parquing-de-la-ciutat-als-carrers-del-districte-de-les-corts/" target="_blank">Ajuntament de Barcelona</a>, 
+      <a href="https://www.naciodigital.cat/motor/noticia/851/seat-presenta-ateca-amb-connectivitat-smart-city-facilita-recerca-aparcament" target="_blank">Nacio Digital</a>, 
+      <a href="https://www.auto10.com/reportajes/parkfinder-la-app-de-seat-para-encontrar-aparcamiento-en-barcelona/6670" target="_blank">Auto10</a>,
+      <a href="https://www.finanzas.com/empresas/seat-presenta-un-ateca-que-facilita-la-busqueda-de-aparcamiento_13518904_102.html" target="_blank">Finanzas.com</a>,
+      <a href="https://www.repubblica.it/motori/sezioni/attualita/2015/12/28/news/cercare_parcheggio_e_un_gioco_con_parkfinder_di_seat-130042599/" target="_blank">La Repubblica (Italy)</a>,
+      <a href="https://www.computerbild.de/videos/cb-News-Connected-Car-SEAT-Parkfinder-App-14332579.html" target="_blank">ComputerBild (Germany)</a>,
+      <a href="https://www.motor1.com/news/128442/seat-ateca-finds-empty-parking/" target="_blank">Motor1 (USA)</a>)
+    <br>
+    - 2015: Designing and developing a website. A prototype to improve the energy efficiency of buildings through recommendations
+      that affect the user's behavior. (<a href="/assets/img/works/inlab/screen_ace_1.png" target="_blank">Screenshot 1</a>)
+    <br>
+    - 2014 to 2015: SEAT HeartRate - Developing a widget for an Android Application in the frame of SEAT Connected Car.
+      Also developing a Tizen Application. The goal of both is to collect the user's biometrical data and show it in the 
+      Infotainment system of the vehicle. (<a href="/assets/img/works/inlab/screen_seat_heartrace_1.jpg" target="_blank">Screenshot 1</a>, 
+      <a href="/assets/img/works/inlab/screen_seat_heartrace_2.jpg" target="_blank">Screenshot 2</a>)
