@@ -16,18 +16,26 @@ October 2018 - Barcelona (Spain)
 
 Original description from the organizers:
 
-> ... design and implement innovative mobile, web or Cloud-based applications during a two days hackathon event!
-The BIG IOT challenge will provide technologies and mobility & environmental data to allow you to hack and play with parking, cars, environmental sensors, bicycles to develop sustainable and efficient way to live and travel in a smart city. 
+> ... design and implement innovative mobile, web or Cloud-based applications during a two days
+hackathon event! The BIG IOT challenge will provide technologies and mobility & environmental data
+to allow you to hack and play with parking, cars, environmental sensors, bicycles to develop
+sustainable and efficient way to live and travel in a smart city. 
 
 > Hacking starts at 11:00 PM on Wednesday and ends at 14:00 PM on Thursday.
 
 ### The solution
 
-We have seen some apps that give the user the information of where we can park electric cars, but not always in real-time and without info of charging stations. So we thought, why don't we do that part of a service in an application?
+We have seen some apps that give the user the information of where we can park electric cars, but
+not always in real-time and without info of charging stations. So we thought, why don't we do that
+part of a service in an application?
 
-ON CITY is an application which consumes data from the BIGIoT MarketPlace. This data is treated and users can see Available Charging Stations to park their vehicles in a Map and in diferent cities.
+ON CITY is an application that consumes data from the BIGIoT MarketPlace. This data is treated and
+users can see Available Charging Stations to park their vehicles on a Map and in different cities.
 
-We have created two offering services in the BIGIoT MarketPlace with Barcelona Open Data and Brussels Open Data that gives us the real data. Then through the Marketplace we had developed an Android platform that shows a map with two points(origin and destination). The user will see motorbikes and car Available Charging Stations near the destination.
+We have created two offering services in the BIGIoT MarketPlace with Barcelona Open Data and
+Brussels Open Data that gives us the real data. Then through the Marketplace, we had developed an
+Android platform that shows a map with two points(origin and destination). The user will see
+motorbikes and car Available Charging Stations near the destination.
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; float: left" src="/assets/img/hackathons/hackatown_2018/screen1.jpg" width="440"/>

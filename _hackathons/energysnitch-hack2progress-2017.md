@@ -20,7 +20,8 @@ Original event description:
 
 Tras el éxito de las ediciones pasadas, ¡repetimos experiencia!
 
-III Edición Hack2Progress 2017 organizada por CIC y con la coorganización de la Universidad de Cantabria!
+III Edición Hack2Progress 2017 organizada por CIC y con la coorganización de la Universidad de
+Cantabria!
 
 > Hacking starts at 12:01 PM on Saturday and ends at 12:01 PM on Sunday.
 
@@ -30,9 +31,12 @@ Did you know that you can save ~20% of light consumption at home?
 
 Our solution is Energy Snitch. An energy monitoring system of your home.
 
-This project was built in OpenCV, to detect when someone is at home. A backend in Python to send the information to our API in Firebase. And then Firebase communicate with the Android application in order to show the user a notification.
+This project was built in OpenCV, to detect when someone is at home. A backend in Python to send the
+information to our API in Firebase. And then Firebase communicates with the Android application in
+order to show the user a notification.
 
-Also, we developed a basic Front-End (in AngularJS) in which the user is able to see in real time all the information including the camera system.
+Also, we developed a basic Front-End (in AngularJS) in which the user is able to see in real-time
+all the information including the camera system.
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; float: left" src="/assets/img/hackathons/hack2progress_2017/screen1.png" width="400"/>

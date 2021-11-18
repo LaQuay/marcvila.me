@@ -16,7 +16,8 @@ May 2019 - Barcelona (Spain)
 
 Original description from the organizers:
 
-> ... Buscamos programadores, desarrolladores, UX, data analysts… que quieran disfrutar de 48 horas de energía, diversión, aprendizaje y buen rollo, enfrentándose a la API de eCooltra.
+> ... Buscamos programadores, desarrolladores, UX, data analysts… que quieran disfrutar de 48 horas
+> de energía, diversión, aprendizaje y buen rollo, enfrentándose a la API de eCooltra.
 
 > Hacking starts at 20:00 PM on Friday and ends at 10:00 PM on Sunday.
 

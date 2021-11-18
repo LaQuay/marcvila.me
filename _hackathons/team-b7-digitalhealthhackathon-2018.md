@@ -16,17 +16,33 @@ June 2018 - Barcelona (Spain)
 
 Original event description:
 
-> ... Desarrollar el primer algoritmo que permita predecir la probabilidad de que pacientes con cáncer desarrollen una infección por una bacteria resistente a los antibióticos convencionales es el objetivo del primer "Hackathon", que este fin de semana celebrará el Hospital Clínic de Barcelona.
+> ... Desarrollar el primer algoritmo que permita predecir la probabilidad de que pacientes con
+> cáncer desarrollen una infección por una bacteria resistente a los antibióticos convencionales es
+> el objetivo del primer "Hackathon", que este fin de semana celebrará el Hospital Clínic de
+> Barcelona.
 
 > Hacking starts at 10:00 AM on Saturday and ends at 15:00 PM on Sunday.
 
 ### The challenge
 
-Help our doctors! Develop a Machine Learning algorithm to predict which patients with neutropenia are most likely to develop multi-drug resistant bacteremia. The ability to produce accurate data-based predictions, to think out of the box and be a team player will play an essential role to win this challenge. Not to mention your ability to present to the audience and committee of experts your insights and outputs generated.
+Help our doctors! Develop a Machine Learning algorithm to predict which patients with neutropenia
+are most likely to develop multi-drug resistant bacteremia. The ability to produce accurate
+data-based predictions, think out of the box, and be a team player will play an essential role to
+win this challenge. Not to mention your ability to present to the audience and committee of experts
+your insights and outputs generated.
 
 ### The solution
 
-Hematological patients face a daily threat. Due to certain cancer treatments, their immune system deteriorates and it is very likely that many of them end up suffering from febrile neutropenia. When this happens, there is a considerable risk that they end up developing a possibly-fatal disease called bacteremia. Since performing a complete diagnosis to determine whether a patient has bacteremia or not could take multiple days (and prolonged waiting times for infected patients would drastically increase their risk of dying), most patients are treated with broad-spectrum, toxic, and/or expensive antibiotics right away even if they might not need it. There is, however, a huge amount of historical data available regarding the tests performed on each patient as well as their surroundings that could help predict the probability of a patient developing multi-drug resistant bacteremia.
+Hematological patients face a daily threat. Due to certain cancer treatments, their immune system
+deteriorates and many of them likely end up suffering from febrile neutropenia. When this happens,
+there is a considerable risk that they end up developing a possibly-fatal disease called bacteremia.
+Since performing a complete diagnosis to determine whether a patient has bacteremia or not could
+take multiple days (and prolonged waiting times for infected patients would drastically increase
+their risk of dying), most patients are treated with broad-spectrum, toxic, and/or expensive
+antibiotics right away even if they might not need it. There is, however, a huge amount of
+historical data available regarding the tests performed on each patient as well as their
+surroundings that could help predict the probability of a patient developing multi-drug resistant
+bacteremia.
 
 #### Languages
 

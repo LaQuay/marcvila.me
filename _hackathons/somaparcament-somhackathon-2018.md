@@ -16,24 +16,36 @@ February 2018 - Mataró (Spain)
 
 Original event description:
 
-> El TecnoCampus, l’Ajuntament de Mataró i Som Mobilitat convoquen la segona edició del SomHackathon TecnoCampus Mataró, on  l’objectiu és potenciar la innovació, el talent i el desenvolupament de noves idees en l’àmbit de la mobilitat del territori mitjançant el desenvolupament d’aplicacions. 
+> El TecnoCampus, l’Ajuntament de Mataró i Som Mobilitat convoquen la segona edició del SomHackathon
+> TecnoCampus Mataró, on  l’objectiu és potenciar la innovació, el talent i el desenvolupament de
+> noves idees en l’àmbit de la mobilitat del territori mitjançant el desenvolupament d’aplicacions. 
 
 > Hacking starts at 10:00 PM on Saturday and ends at 13:00 PM on Sunday.
 
 ### The problem
 
-The use of the loading and unloading zones in the cities is currently considered improvable, specifically in this case in Mataró.
+The use of the loading and unloading zones in the cities is currently considered improvable,
+specifically in this case in Mataró.
 
-By not having control of parking lots in the loading and unloading areas, they do not take full advantage of them. Whether the areas are over-occupied or under-occupied. This influences the unnecessary traffic and pollution of the vehicles in the same city. It also directly affects the satisfaction of the driver or user of the vehicle. On the other hand, the card-clock is currently used, manual, and does not provide information about the status of the zones, due to the fact that there is no telematic communication. The solutions that already exist are not Open Source, or, they are directly private.
+By not having control of parking lots in the loading and unloading areas, they do not take full
+advantage of them. Whether the areas are over-occupied or under-occupied. This influences the
+unnecessary traffic and pollution of the vehicles in the same city. It also directly affects the
+satisfaction of the driver or user of the vehicle. On the other hand, the card-clock is currently
+used, manual, and does not provide information about the status of the zones, due to the fact that
+there is no telematic communication. The solutions that already exist are not Open Source, or, they
+are directly private.
 
 ### The solution
 
-A platform has been created that allows the obtaining and exploitation of data from the areas of CiD. This solution consists of a web dashboard for the frontend, an Android application for the introduction of data and an API as a backend.
+A platform has been created that allows the obtaining and exploitation of data from the areas of
+CiD. This solution consists of a web dashboard for the frontend, an Android application for the
+introduction of data, and an API as a backend.
 
-This solution is collaborative for the common benefit. And it differs from the existing solutions in which it is:
+This solution is collaborative for the common benefit. And it differs from the existing solutions in
+which it is:
 
-- Open Source: It is replicable, scalable and adaptable.
-- Open Data: It is consumed, generated and shared.
+- Open Source: It is replicable, scalable, and adaptable.
+- Open Data: It is consumed, generated, and shared.
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; display: inline" src="/assets/img/hackathons/somhackathon_2018/screen1.png" width="480"/>

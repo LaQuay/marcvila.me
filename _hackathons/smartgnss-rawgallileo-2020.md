@@ -16,17 +16,27 @@ March 2020 - Virtual (UK Hosts)
 
 Original description from the organizers:
 
-> ... The 24h hacking event. We will develop Android application utilising Galileo (GNSS).
-We aim to raise awareness of Galileo/GNSS (powering everything: from mobile networks to Google Maps in your phone) by creating the minimum viable product (Android mobile application) that utilises Galileo.
+> ... The 24h hacking event. We will develop Android application utilising Galileo (GNSS). We aim to
+raise awareness of Galileo/GNSS (powering everything: from mobile networks to Google Maps in your
+phone) by creating the minimum viable product (Android mobile application) that utilises Galileo.
 
 > Hacking starts at 11:00 PM on Saturday and ends at 11:00 PM on Sunday.
 
 ### The Challenge - Flamingo Verified Location 
-Aims to create a verification layer for systems that require location data from mobile devices. The use cases include fraud prevention in banking, anti-cheat systems for mixed reality gaming, and other applications where location spoofing must be prevented. Since devices are ultimately under the control of end-users, it is not possible to prevent them from sending spoofed location data to a service.
+Aims to create a verification layer for systems that require location data from mobile devices. The
+use cases include fraud prevention in banking, anti-cheat systems for mixed reality gaming, and
+other applications where location spoofing must be prevented. Since devices are ultimately under the
+control of end-users, it is not possible to prevent them from sending spoofed location data to a
+service.
 
-Since 2016, Android enables the collection of raw GNSS measurements, as received from satellites. By sending these measurements along with the location data, they could be used to independently calculate the position of the device and verify that it matches the reported position. The raw GNSS measurements cannot be easily spoofed, and dramatically increase the cost and complexity of an attack.
+Since 2016, Android enables the collection of raw GNSS measurements, as received from satellites. By
+sending these measurements along with the location data, they could be used to independently
+calculate the position of the device and verify that it matches the reported position. The raw GNSS
+measurements cannot be easily spoofed, and dramatically increase the cost and complexity of an
+attack.
 
-The challenge aims to create both the client-side (Android application) and the back-end service of the location spoofing prevention solution.
+The challenge aims to create both the client-side (Android application) and the back-end service of
+the location spoofing prevention solution.
 
 ### The solution
 

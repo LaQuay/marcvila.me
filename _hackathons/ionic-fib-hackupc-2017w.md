@@ -22,8 +22,8 @@ Original event description:
 
 ### The solution
 
-Ionic FIB is an application made with the Ionic v2 Framework. And as a result, it gives an Android
-compatible application. As it is a webapp, it also can be executed on Web.
+Ionic FIB is an application made with the Ionic v2 Framework. And as a result, it gives an
+Android-compatible application. As it is a web app, it also can be executed on the Web.
 
 The main goal of this app is to check the new FIB API v2. Accessing both sides of it. The public
 part and the private part, which requires an OAuth authentication.
@@ -31,9 +31,9 @@ part and the private part, which requires an OAuth authentication.
 - Authenticating with OAuth v2.
 - Shows the user day planning.
 - Shows the user alerts.
-- Calendar which gives the opportunity to the user to select the subjects that he wants to study
-  the current academic year. The algorithm reports the user one of the bests combinations. Combination
-  based in: less overlap, less 'dead hours', ... .
+- Calendar which gives the opportunity to the user to select the subjects that he wants to study the
+  current academic year. The algorithm reports the user one of the bests combinations. Combination
+  based in less overlap, less 'dead hours', ...
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; float: left" src="/assets/img/hackathons/hackupc_2017_w/screen1.jpg" width="320"/>

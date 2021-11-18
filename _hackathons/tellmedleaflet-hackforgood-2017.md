@@ -16,8 +16,8 @@ March 2017 - Barcelona (Spain)
 Original event description:
 
 > ... Organised by Telefónica's network of Chairs and which brought together over 1000 developers
-> and designers to build applications and services that make massive use of data and aim to create
-> a social impact and build a better world.
+> and designers to build applications and services that make massive use of data and aim to create a
+> social impact and build a better world.
 
 > Hacking starts at 10:00 AM on Friday and ends at 11:00 AM on Saturday.
 
@@ -28,12 +28,12 @@ the handwriting is too small. In addition, blind people can not consult this in 
 instructions The aim of this challenge is to design an APP that is capable of recognizing the drug
 in a simple way and reproducing all relevant information through voice instructions.”
 
-Medical leaflets are difficult to read for people with visual difficulties, mainly because their text
-size is very small.
+Medical leaflets are difficult to read for people with visual difficulties, mainly because their
+text size is very small.
 
-The main goal of the solution is to show the user the package leaflet, either written or oral.
-The user should only load one photo of the front of the medicine box in the application and the
-system will take care of everything else.
+The main goal of the solution is to show the user the package leaflet, either written or oral. The
+user should only load one photo of the front of the medicine box in the application and the system
+will take care of everything else.
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; float: left" src="/assets/img/hackathons/hackforgood_2017/screen1.png" width="280"/>

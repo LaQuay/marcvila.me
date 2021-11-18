@@ -16,17 +16,27 @@ March 2018 - Barcelona (Spain)
 
 Original event description:
 
-> ... The Hackathon focuses on these aspects: how we will move, our experience while on the move, and the services derived from our movements. At CARNET, we want to promote new ideas for the future of mobility, offering attendees the chance to participate in the Hackathon. This creative event includes tutorials on key technologies. A wide range of devices will be available for use, and key data will be provided to validate the solutions that are developed.
+> ... The Hackathon focuses on these aspects: how we will move, our experience while on the move,
+> and the services derived from our movements. At CARNET, we want to promote new ideas for the
+> future of mobility, offering attendees the chance to participate in the Hackathon. This creative
+> event includes tutorials on key technologies. A wide range of devices will be available for use,
+> and key data will be provided to validate the solutions that are developed.
 
 > Hacking starts at 10:00 AM on Saturday and ends at 15:00 PM on Sunday.
 
 ### The challenge
 
-Social Mobility: waking up the machines. This Challenge focuses on how to make mobility more socially sustainable using information and communication technologies.
+Social Mobility: waking up the machines. This Challenge focuses on how to make mobility more
+socially sustainable using information and communication technologies.
 
 ### The solution
 
-It’s a smart blind cane and a mobile application. The smart cane is able to vibrate when the user is walking near a bike lane in order to advise the blind user and also to flash a LED lights to make them visible to the riders on the bike lanes. Also, the smart cane vibrate with a different pattern when is near a bus station. The application can say with voice the bus lanes that stops in that bus stops (if required for the user) and also, staying in the bus stop, can say the bus line that is stopping in that moment.
+It’s a smart blind cane and a mobile application. The smart cane is able to vibrate when the user is
+walking near a bike lane in order to advise the blind user and also to flash LED lights to make them
+visible to the riders on the bike lanes. Also, the smart cane vibrates with a different pattern when
+is near a bus station. The application can say with voice the bus lanes that stop at that bus stop
+(if required for the user) and also, staying at the bus stop, can say the bus line that is stopping
+in that moment.
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8s52SF_ReOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -44,7 +54,16 @@ It’s a smart blind cane and a mobile application. The smart cane is able to vi
 </div>
 <br><br>
 
-It’s a reality that moving on a city today is dangerous. It’s dangerous because the same road is shared with other users who travel in other modes of transport such as car, motorcycle, bicycle, skating, skateboard, etc. The most modern cities, such as Barcelona, oblige cyclists and skaters to move in bike lanes. All this is very beneficial for general mobility so, although dangerous, it benefits the citizens. However, the problem remains in the fact that users who use these lanes have less “habit” than the rest of the pedestrians in coexisting with different lanes. However, for people with visual impairments, this is a big problem, since these modes of transport are silent and the bike lanes are usually visually marked with lines painted on the ground. This makes it even more difficult for these users to move safely through the streets. With #bvisible, we want make their lives easier.
+It’s a reality that moving into a city today is dangerous. It’s dangerous because the same road is
+shared with other users who travel in other modes of transport such as car, motorcycle, bicycle,
+skating, skateboard, etc. The most modern cities, such as Barcelona, oblige cyclists and skaters to
+move in bike lanes. All this is very beneficial for general mobility so, although dangerous, it
+benefits the citizens. However, the problem remains in the fact that users who use these lanes have
+less “habit” than the rest of the pedestrians in coexisting with different lanes. However, for
+people with visual impairments, this is a big problem, since these modes of transport are silent and
+the bike lanes are usually visually marked with lines painted on the ground. This makes it even more
+difficult for these users to move safely through the streets. With #bvisible, we want to make their
+lives easier.
 
 #### Languages
 

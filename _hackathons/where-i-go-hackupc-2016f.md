@@ -22,9 +22,10 @@ Original event description:
 
 ### The solution
 
-Where I go will help you taking decisions about your next flight corresponding to your weather preferences.
-It is an Android application that uses the SkyScanner API, to get the available flights and combine this
-data with the OpenWeatherMap API to provide the weather information about your next destination.
+Where I go will help you taking decisions about your next flight corresponding to your weather
+preferences. It is an Android application that uses the SkyScanner API, to get the available flights
+and combine this data with the OpenWeatherMap API to provide the weather information about your next
+destination.
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; float: left" src="/assets/img/hackathons/hackupc_2016_f/screen1.png" width="280"/>

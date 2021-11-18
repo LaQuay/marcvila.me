@@ -5,7 +5,7 @@
   location: Barcelona, Spain
   description: >
     Innovation Dpt. Designing and implementing the software side. Mostly Microservices
-    Architectures, backend development with Docker, Python, Flask, SQL and
+    Architectures, backend development with Docker, Python, Flask, React, SQL, and
     Timeseries databases. Frontend with React. Mobile development with Android.
 
 - title: Associate Professor
@@ -15,8 +15,8 @@
   location: Barcelona, Spain
   description: >
     Teaching the Android part of the <a href="https://www.talent.upc.edu/ing/professionals/presentacio/codi/200100/internet-iot/" target="_blank">Master's Degree in Internet of Things (IoT)</a>. 
-    Firsts steps for non Android-developers, how Android works, data exploitation 
-    through APIs and data visualization. Combining these elements with an IoT ecosystem.
+    First steps for non-Android-developers, how Android works, data exploitation 
+    through APIs, and data visualization. Combining these elements with an IoT ecosystem.
 
 - title: Associate Professor
   from: 2019
@@ -25,8 +25,8 @@
   location: Hospitalet de Llobregat, Spain
   description: >
     Teaching the Android part of the 'Pla: Tècnic/a eines i tecnologies de xarxa mòbils en 5G, from the Generalitat de Catalunya'. 
-    Firsts steps for non Android-developers, how Android works, data exploitation 
-    through APIs and data visualization. Combining these elements with an IoT ecosystem, Thingsboard.
+    First steps for non-Android-developers, how Android works, data exploitation 
+    through APIs, and data visualization. Combining these elements with an IoT ecosystem.
 
 - title: Software Developer
   from: 2014
@@ -40,7 +40,7 @@
     <br>
     - 2015 to 2017: SEAT Parkfinder - Developing an Android application for SEAT Connected Car vehicles.
       The app communicates with the Infotainment system of the vehicle, using the MirrorLink system, and allows to locate parking spots in Barcelona. 
-      Consuming from several APIs, in the frame of the European iCity project about Smart-Cities. (<a href="/assets/img/works/inlab/screen_seat_parkfinder_1.jpg" target="_blank">Screenshot 1</a>, 
+      Consuming data from several APIs, in the frame of the European iCity project about Smart-Cities. (<a href="/assets/img/works/inlab/screen_seat_parkfinder_1.jpg" target="_blank">Screenshot 1</a>, 
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_2.png" target="_blank">Screenshot 2</a>,
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_3.png" target="_blank">Screenshot 3</a>,
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_4.png" target="_blank">Screenshot 4</a>,

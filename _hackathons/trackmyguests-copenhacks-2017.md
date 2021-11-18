@@ -16,19 +16,20 @@ April 2017 - Copenhagen (Denmark)
 Original event description:
 
 > ... 24h of Hacking - Have you ever wanted to code a great idea but haven't been able to set aside
-> the time to actually build it? Or perhaps you had a fantastic idea but lacked the technical ability
-> to be able to code it yourself. Now you have the chance to dedicate 24 hours on this project or idea.
-> The only condition is: You will only be judged on what you write within these 24 hours. ...
+> the time to actually build it? Or perhaps you had a fantastic idea but lacked the technical
+> ability to be able to code it yourself. Now you have the chance to dedicate 24 hours on this
+> project or idea. The only condition is: You will only be judged on what you write within these 24
+> hours. ...
 
 > Hacking starts at 9:00 AM on Saturday and ends at 16:00 PM on Sunday.
 
 ### The solution
 
 Imagine you have an event at home and you want to know where are your guests, and also remember them
-not to arrive late. With a simple control panel the host can manage this event and check which guests
-are coming. When the host requires it, the system sends and SMS to the guests reminding them about the
-meeting. This SMS activates an Android Service which sends the confirmation and the guests position to
-the host. That results are shown in a list and also in a map on the web side (host).
+not to arrive late. With a simple control panel, the host can manage this event and check which
+guests are coming. When the host requires it, the system sends an SMS to the guests reminding them
+about the meeting. This SMS activates an Android Service which sends the confirmation and the
+guest's position to the host. That results are shown in a list and also in a map on the website.
 
 - A frontend server in Angular 2, that shows the control panel to the hosts.
 - A backend server API in Flask, that also uses the Twilio API to send the SMS.

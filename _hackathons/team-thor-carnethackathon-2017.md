@@ -17,20 +17,20 @@ March 2017 - Barcelona (Spain)
 
 Original event description:
 
-> ... Student teams enjoyed the opportunity to prove themselves and showcase their wide range of abilities.
-> This Hackathon was not only a great learning and networking experience, but also an opportunity to help
-> actively define the future of mobility and create a lasting impact.
+> ... Student teams enjoyed the opportunity to prove themselves and showcase their wide range of
+> abilities. This Hackathon was not only a great learning and networking experience, but also an
+> opportunity to help actively define the future of mobility and create a lasting impact.
 
 > Hacking starts at 10:00 AM on Saturday and ends at 14:00 PM on Sunday.
 
 ### The solution
 
-An user from outside of Barcelona wants to go from A to B. The plan is to calculate where the user will park
-its car in a micro city when reaching Barcelona, and then it calculates the public transport the he will need
-to use to reach the point B.
+A user from outside of Barcelona wants to go from A to B. The plan is to calculate where the user
+will park their car in a micro-city when reaching Barcelona, and then it calculates the public
+transport that will need to use to reach point B.
 
-An App is used to help the user finding those Micro Cities and the services inside it. If the user uses those
-services, he’s rewarded with discounts.
+An App is used to help the user find those Micro Cities and the services inside them. If the user
+uses those services, he’s rewarded with discounts.
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; float: left" src="/assets/img/hackathons/carnethackathon_2017/screen1.png" width="280"/>

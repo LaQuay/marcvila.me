@@ -25,13 +25,12 @@ Original event description:
 ### The solution
 
 Do you ask yourself anytime how could you send a location to your friend when you are inside a
-building?
-Or maybe you are an employer and asked in your professional world, how can you know how much time
-spends a client in each section of your shop?
+building? Or maybe you are an employer and asked in your professional world, how can you know how
+much time spends a client in each section of your shop?
 
-The idea is that having a router / access point you are able to know who is near you. Without any
-interaction with the clients, you will be able to track them. And maybe you want to share personalized
-ads to them.
+The idea is that by having a router or access point you are able to know who is near you. Without
+any interaction with the clients, you will be able to track them. And maybe you want to share
+personalized ads with them.
 
 <div style="text-align: center;">
 <img style="margin: 0 !important; float: left" src="/assets/img/hackathons/hackprague_2017/screen1.jpg" width="425"/>
