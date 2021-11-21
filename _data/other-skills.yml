@@ -1,9 +1,14 @@
-- name: Software Development
+- name: Software Development (See below and left)
   percentage: 100
   showPercentage: false
   color: dark
 
-- name: Cloud Development
+- name: Cloud Development (Google Cloud, AWS)
+  percentage: 100
+  showPercentage: false
+  color: dark
+
+- name: Software Modeling
   percentage: 100
   showPercentage: false
   color: dark

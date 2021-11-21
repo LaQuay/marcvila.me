@@ -4,7 +4,7 @@
   color: success
 
 - name: Docker
-  percentage: 80
+  percentage: 85
   showPercentage: false
   color: primary
 
