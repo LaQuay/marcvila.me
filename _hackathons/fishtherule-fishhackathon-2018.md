@@ -8,13 +8,9 @@ description:
 order_number: 12
 ---
 
-# FishTheRule – Fishackathon 2018
+### The hackathon – Fishackathon 2018
 
 February 2018 - Cádiz (Spain)
-
-### The hackathon
-
-Original event description:
 
 > La Universidad de Cádiz (UCA), el Campus de Excelencia Internacional del Mar (CeiMar) y la
 > Embajada de Estados Unidos en España, con la colaboración del Instituto Español de Oceanografía,

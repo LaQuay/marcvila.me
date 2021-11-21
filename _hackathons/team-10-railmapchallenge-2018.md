@@ -8,13 +8,9 @@ description:
 order_number: 15
 ---
 
-# Team 10 'Koalas' – Railmapchallenge Hackathon 2018
+### The hackathon – Railmapchallenge Hackathon 2018
 
 October 2018 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > ... ATM and SmartCatalonia organize the RAIL MAP CHALLENGE, which for 24 hours will host the best
 > experts in usability, design and programming to make the rail transport map of Barcelona one of

@@ -10,13 +10,9 @@ description:
 order_number: 8
 ---
 
-# Lazarus – HackUPC Fall 2017
+### The hackathon – HackUPC Fall 2017
 
 October 2017 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > Over 700 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...

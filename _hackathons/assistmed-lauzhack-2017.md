@@ -8,13 +8,9 @@ description:
 order_number: 9
 ---
 
-# AssistMed – Lauzhack 2017
+### The hackathon – Lauzhack 2017
 
 November 2017 - Laussane (Switzerland)
-
-### The hackathon
-
-Original event description:
 
 > Come and join over 200 like-minded students hacking together during a weekend to make something
 > amazing!

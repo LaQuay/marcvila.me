@@ -9,13 +9,9 @@ description:
 order_number: 4
 ---
 
-# Team Thor – Carnet Hackathon 2017
+### The hackathon – Carnet Hackathon 2017
 
 March 2017 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > ... Student teams enjoyed the opportunity to prove themselves and showcase their wide range of
 > abilities. This Hackathon was not only a great learning and networking experience, but also an

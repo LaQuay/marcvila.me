@@ -8,13 +8,9 @@ description:
 order_number: 13
 ---
 
-# Team Alice – Carnet Hackathon 2018
+### The hackathon – Carnet Hackathon 2018
 
 March 2018 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > ... The Hackathon focuses on these aspects: how we will move, our experience while on the move,
 > and the services derived from our movements. At CARNET, we want to promote new ideas for the

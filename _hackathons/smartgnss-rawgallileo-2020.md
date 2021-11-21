@@ -8,13 +8,9 @@ description:
 order_number: 20
 ---
 
-# SmartGNSS – Raw Gallileo Hackathon 2020
+### The hackathon – Raw Gallileo Hackathon 2020
 
-March 2020 - Virtual (UK Hosts)
-
-### The hackathon
-
-Original description from the organizers:
+March 2020 - Virtual (UK based)
 
 > ... The 24h hacking event. We will develop Android application utilising Galileo (GNSS). We aim to
 raise awareness of Galileo/GNSS (powering everything: from mobile networks to Google Maps in your

@@ -7,13 +7,9 @@ description: Manage your local events with hosts and SMS services.
 order_number: 5
 ---
 
-# TrackMyGuests – CopenHacks 2017
+### The hackathon – CopenHacks 2017
 
 April 2017 - Copenhagen (Denmark)
-
-### The hackathon
-
-Original event description:
 
 > ... 24h of Hacking - Have you ever wanted to code a great idea but haven't been able to set aside
 > the time to actually build it? Or perhaps you had a fantastic idea but lacked the technical

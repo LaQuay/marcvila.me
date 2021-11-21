@@ -75,12 +75,12 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "page"
+      layout: "project"
   - scope:
       path: ""
       type: "hackathons"
     values:
-      layout: "page"
+      layout: "hackathon"
   - scope:
       path: ""
       type: "posts"

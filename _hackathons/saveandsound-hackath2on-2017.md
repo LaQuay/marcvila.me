@@ -7,13 +7,9 @@ description: Measure the consumption of water from the shower linked with a musi
 order_number: 6
 ---
 
-# Save&Sound – HackatH2On 2017
+### The hackathon – HackatH2On 2017
 
 May 2017 - Cornellà de Llobregat (Spain)
-
-### The hackathon
-
-Original event description:
 
 > ... We invite you to participate in a unique event, overflowing with creativity, in which 20 teams
 > live together during an intense weekend with the mission of fulfilling 3 water-related challenges

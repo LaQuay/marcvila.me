@@ -7,13 +7,9 @@ description: Scan a medical leaflet and the application will speak out loud for 
 order_number: 3
 ---
 
-# TellMedLeaflet – HackForGood Barcelona 2017
-
+### The hackathon – HackForGood Barcelona 2017
+ 
 March 2017 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > ... Organised by Telefónica's network of Chairs and which brought together over 1000 developers
 > and designers to build applications and services that make massive use of data and aim to create a

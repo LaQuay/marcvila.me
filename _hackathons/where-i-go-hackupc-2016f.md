@@ -7,13 +7,9 @@ description: Help you taking decisions about your next flight corresponding to y
 order_number: 1
 ---
 
-# WHERE I GO? – HackUPC Fall 2016
+### The hackathon – HackUPC Fall 2016
 
 November 2016 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > Over 400 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...

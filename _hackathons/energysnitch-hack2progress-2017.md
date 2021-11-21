@@ -8,13 +8,9 @@ description:
 order_number: 10
 ---
 
-# Energy Snitch – Hack2Progress 2017
+### The hackathon – Hack2Progress 2017
 
 November 2017 - Santander (Spain)
-
-### The hackathon
-
-Original event description:
 
 > ¿Cómo las ciencias del comportamiento pueden reducir los gastos de energía?
 

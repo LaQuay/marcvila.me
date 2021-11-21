@@ -8,13 +8,9 @@ description:
 order_number: 11
 ---
 
-# SomAparcament – SomHackathon 2018
+### The hackathon – SomHackathon 2018
 
 February 2018 - Mataró (Spain)
-
-### The hackathon
-
-Original event description:
 
 > El TecnoCampus, l’Ajuntament de Mataró i Som Mobilitat convoquen la segona edició del SomHackathon
 > TecnoCampus Mataró, on  l’objectiu és potenciar la innovació, el talent i el desenvolupament de

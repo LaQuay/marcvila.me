@@ -3,17 +3,14 @@ name: IonicFIB
 subtitle: HackUPC Winter 2017 - Spain
 tools: [1st Place in Challenge, Android, Ionic, Typescript, OAuth, API]
 image: /assets/img/hackathons/hackupc_2017_w/featured.png
-description: Client for FIB Racó made with Ionic v2. Authenticate and check user planning and alerts.
+description: 
+  Client for FIB Racó made with Ionic v2. Authenticate and check user planning and alerts.
 order_number: 2
 ---
 
-# IonicFIB – HackUPC Winter 2017
+### The hackathon – HackUPC Winter 2017
 
 March 2017 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > Over 500 students from over 20 countries will gather for 36h of dreaming, hacking and shipping on
 > anything and everything. All projects are welcome, mobile, hardware, web, you name it. ...

@@ -8,13 +8,9 @@ description:
 order_number: 16
 ---
 
-# Neighborgood – HackUPC 2018
+### The hackathon – HackUPC 2018
 
 October 2018 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > BarcelonaTech student Hackathon. 700 hackers. 36 hours. Dream it. Hack it. Ship it.
 

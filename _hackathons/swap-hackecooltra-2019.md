@@ -8,13 +8,9 @@ description:
 order_number: 19
 ---
 
-# Swappers – eCooltra Hackathon 2019
+### The hackathon – eCooltra Hackathon 2019
 
 May 2019 - Barcelona (Spain)
-
-### The hackathon
-
-Original description from the organizers:
 
 > ... Buscamos programadores, desarrolladores, UX, data analysts… que quieran disfrutar de 48 horas
 > de energía, diversión, aprendizaje y buen rollo, enfrentándose a la API de eCooltra.

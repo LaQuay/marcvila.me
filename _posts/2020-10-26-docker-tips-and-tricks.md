@@ -6,8 +6,6 @@ color: dark
 description: Some tips and tricks about Docker.
 ---
 
-Source: [Github - LaQuay / docker-utils](https://github.com/LaQuay/docker-utils)
-
 The purpose of this blog post is to collect the commands that I use the most on a daily basis. Besides
 some advice and/or trick to improve the operation of Docker.
 
@@ -103,9 +101,10 @@ Should pass the name, e.g.: _dbash container_1_
 
 ### UnixHTTPConnectionPool(host='localhost', port=None): Read timed out. (read timeout=60)
 
+[Original answer](https://github.com/docker/compose/issues/3927)
 ```
 export DOCKER_CLIENT_TIMEOUT=120
 export COMPOSE_HTTP_TIMEOUT=120
 ```
 
-Source: <https://github.com/docker/compose/issues/3927>
+Source: [Github - LaQuay / docker-utils](https://github.com/LaQuay/docker-utils)

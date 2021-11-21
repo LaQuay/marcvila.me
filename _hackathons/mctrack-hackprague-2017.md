@@ -7,13 +7,9 @@ description: Gather location of people inside buildings and use it to personaliz
 order_number: 7
 ---
 
-# McTrack – HackPrague 2017
+### The hackathon – HackPrague 2017
 
 June 2017 - Prague (Czech Republic)
-
-### The hackathon
-
-Original event description:
 
 > ... For 36 hours, HackPrague will bring together 150 passionate developers and designers from
 > across Europe to create cool software and hardware projects. {...} judges from companies like

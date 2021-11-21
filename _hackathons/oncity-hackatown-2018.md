@@ -8,13 +8,9 @@ description:
 order_number: 17
 ---
 
-# On City – HackaTown 2018
+### The hackathon – HackaTown 2018
 
 October 2018 - Barcelona (Spain)
-
-### The hackathon
-
-Original description from the organizers:
 
 > ... design and implement innovative mobile, web or Cloud-based applications during a two days
 hackathon event! The BIG IOT challenge will provide technologies and mobility & environmental data

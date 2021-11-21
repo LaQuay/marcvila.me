@@ -8,13 +8,9 @@ description:
 order_number: 14
 ---
 
-# Team B7 – Digital Health Hackathon 2018
+### The hackathon – Digital Health Hackathon 2018
 
 June 2018 - Barcelona (Spain)
-
-### The hackathon
-
-Original event description:
 
 > ... Desarrollar el primer algoritmo que permita predecir la probabilidad de que pacientes con
 > cáncer desarrollen una infección por una bacteria resistente a los antibióticos convencionales es

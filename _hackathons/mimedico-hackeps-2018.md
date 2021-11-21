@@ -8,13 +8,9 @@ description:
 order_number: 18
 ---
 
-# Mi Médico – HackEPS 2018
+### The hackathon – HackEPS 2018
 
 November 2018 - Lleida (Spain)
-
-### The hackathon
-
-Original description from the organizers:
 
 > ... Segunda edición de la primera hackathon en Lleida. 100 participantes, 24 horas.
 
