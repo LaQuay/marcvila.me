@@ -1,8 +1,8 @@
 ---
 title: Docker Tips and Tricks
 tags: [Docker, Software Development]
-style: fill
-color: dark
+style: border
+color: primary 
 description: Some tips and tricks about Docker.
 ---
 
