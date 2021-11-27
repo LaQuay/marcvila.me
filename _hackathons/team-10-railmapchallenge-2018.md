@@ -61,8 +61,6 @@ Appears in:
 
 - [InLab team winner of the RailMap Challenge - InLab FIB UPC](https://inlab.fib.upc.edu/en/blog/inlab-team-winner-railmap-challenge) ([CAT](https://inlab.fib.upc.edu/ca/blog/equip-inlaber-guanyador-del-railmap-challenge)) ([ES](https://inlab.fib.upc.edu/es/blog/equipo-inlaber-ganador-del-railmap-challenge))
 
-- [InLab (Catalan)](https://www.atm.cat/documents/20121/69452/20181114+Lliurament+premis+Rail+Map+Challenge_ATMPDA.pdf)
-
 - [Eurecat - Rail Map CHALLENGE (Spanish)](https://eurecat.org/es/calendario/rail-map-challenge/)
 
 - [EuropaPress - Premiados los ganadores del 'Rail Map Challenge' en el Smart City Expo (Spanish)](https://www.europapress.es/catalunya/firadebarcelona-00630/noticia-premiados-ganadores-rail-map-challenge-smart-city-expo-20181114143436.html)
