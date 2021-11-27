@@ -59,12 +59,14 @@ Project code: [Team 10 'Koalas' - GitHub](https://github.com/LaQuay/railhackatho
 
 Appears in:
 
-- [Smart Catalonia Gencat (Catalan)](http://smartcatalonia.gencat.cat/ca/detalls/activitatagenda/presentacio_rail_map_challenge) [Link to be checked]
+- [InLab team winner of the RailMap Challenge - InLab FIB UPC](https://inlab.fib.upc.edu/en/blog/inlab-team-winner-railmap-challenge) ([CAT](https://inlab.fib.upc.edu/ca/blog/equip-inlaber-guanyador-del-railmap-challenge)) ([ES](https://inlab.fib.upc.edu/es/blog/equipo-inlaber-ganador-del-railmap-challenge))
 
-- [Govern.cat (Catalan)](http://www.govern.cat/pres_gov/AppJava/govern/notespremsa/308302/latm-smartcatalonia-donen-sortida-rail-map-challenge-hackato-repensara-mapa-ferroviari-larea-barcelona.html) [Link to be checked]
+- [InLab (Catalan)](https://www.atm.cat/documents/20121/69452/20181114+Lliurament+premis+Rail+Map+Challenge_ATMPDA.pdf)
 
 - [Eurecat - Rail Map CHALLENGE (Spanish)](https://eurecat.org/es/calendario/rail-map-challenge/)
 
 - [EuropaPress - Premiados los ganadores del 'Rail Map Challenge' en el Smart City Expo (Spanish)](https://www.europapress.es/catalunya/firadebarcelona-00630/noticia-premiados-ganadores-rail-map-challenge-smart-city-expo-20181114143436.html)
 
-Hackathon website: [Railmapchallenge Hackathon 2018](https://railmapchallenge.cat/) [Link to be checked]
+- [Àrea de Barcelona (Catalan)](https://www.atm.cat/documents/20121/69452/20181114+Lliurament+premis+Rail+Map+Challenge_ATMPDA.pdf)
+
+Hackathon website: [Railmapchallenge Hackathon 2018](https://smartcatalonia.gencat.cat/ca/projectes/ciutats_i_regions/detalls/article/Rail-Map-Challenge-00001)

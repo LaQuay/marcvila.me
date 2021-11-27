@@ -36,11 +36,11 @@
   description: >
     Mobile developer, but also in other areas as Backend, Frontend, and DevOps. Main projects:
     <br><br>
-    - 2017 to 2018: Helping a Catalan Startup in the IoT Healthcare domain. Also in full-stack development and deployment.
+    - 2017 to 2018: Helping a Catalan Startup in the IoT Healthcare domain. Full-stack role.
     <br>
-    - 2015 to 2017: SEAT Parkfinder - Developing an Android application for SEAT Connected Car vehicles.
-      The app communicates with the Infotainment system of the vehicle, using the MirrorLink system, and allows to locate parking spots in Barcelona. 
-      Consuming data from several APIs, in the frame of the European iCity project about Smart-Cities. (<a href="/assets/img/works/inlab/screen_seat_parkfinder_1.jpg" target="_blank">Screenshot 1</a>, 
+    - 2015 to 2017: SEAT Parkfinder - Developing an Android application for SEAT Connected Car.
+      The app communicates with the Infotainment system of the vehicle, using MirrorLink. It allows to locate parking spots in Barcelona. 
+      Consuming data from several APIs. Framed in the Smart-Cities European project, iCity. (<a href="/assets/img/works/inlab/screen_seat_parkfinder_1.jpg" target="_blank">Screenshot 1</a>, 
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_2.png" target="_blank">Screenshot 2</a>,
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_3.png" target="_blank">Screenshot 3</a>,
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_4.png" target="_blank">Screenshot 4</a>,
@@ -62,10 +62,9 @@
       <a href="https://www.computerbild.de/videos/cb-News-Connected-Car-SEAT-Parkfinder-App-14332579.html" target="_blank">ComputerBild (Germany)</a>,
       <a href="https://www.motor1.com/news/128442/seat-ateca-finds-empty-parking/" target="_blank">Motor1 (USA)</a>)
     <br>
-    - 2015: Designing and developing a website. A prototype to improve the energy efficiency of buildings through recommendations
-      that affect the user's behavior. (<a href="/assets/img/works/inlab/screen_ace_1.png" target="_blank">Screenshot 1</a>)
+    - 2015: Designing and developing a website. An approach to improve the energy efficiency of buildings through user-recommendations. (<a href="/assets/img/works/inlab/screen_ace_1.png" target="_blank">Screenshot 1</a>)
     <br>
-    - 2014 to 2015: SEAT HeartRate - Developing a widget for an Android Application in the frame of SEAT Connected Car.
-      Also developing a Tizen Application. The goal of both is to collect the user's biometrical data and show it in the 
-      Infotainment system of the vehicle. (<a href="/assets/img/works/inlab/screen_seat_heartrate_1.jpg" target="_blank">Screenshot 1</a>, 
+    - 2014 to 2015: SEAT HeartRate - Developing a widget for an Android app and a Tizen app for Samsung
+      wearables in the frame of SEAT Connected Car. The goal is to collect and represent the user's biometrical data. 
+      (<a href="/assets/img/works/inlab/screen_seat_heartrate_1.jpg" target="_blank">Screenshot 1</a>, 
       <a href="/assets/img/works/inlab/screen_seat_heartrate_2.jpg" target="_blank">Screenshot 2</a>)

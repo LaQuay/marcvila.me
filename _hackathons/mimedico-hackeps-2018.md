@@ -87,6 +87,7 @@ Project code: [Mi Médico - GitHub](https://github.com/LaQuay/hackeps-lleida-201
 
 Appears in:
 
+- [El Segre - Premis per a cinc equips al Hackathon de Lleida (Catalan)](https://www.segre.com/noticies/guia/2018/11/19/premis_per_cinc_equips_hackathon_lleida_61322_1111.html)
 - [Devpost](https://devpost.com/software/mi-medico)
 
 Hackathon website: [HackEPS 2018 - Devpost](https://hackeps2018.devpost.com).
