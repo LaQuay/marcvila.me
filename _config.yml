@@ -33,7 +33,7 @@ description: >-
 baseurl: ""
 repository: LaQuay/marcvila.me
 remote_theme: YoussefRaafatNasry/portfolYOU
-open_new_tab : true # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab: true # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 ### Plugins ###
 plugins:
@@ -48,7 +48,7 @@ nav_exclude: # The following paths are excluded from navbar
 ### Author Info ###
 author:
   name: Marc Vila Gómez
-  image: /assets/img/profile.jpg
+  image: /assets/img/profile.png
   # behance           : your_username
   # dribbble          : your_username
   # email: hola@marcvila.me EDITED IN social.html
