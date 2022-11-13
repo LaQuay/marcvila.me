@@ -14,6 +14,9 @@ The project has as a source an <a href="https://github.com/LaQuay/TDTChannels" t
 source database</a> published in GitHub, where people can contribute new links, and I validate them
 before publishing.
 
+In mid-2022, it reached the maximum and stable peak of users, at more than 20,000 unique users per
+day. In its Telegram group, it reached 11,000 users.
+
 ## Website
 
 In order to be able to reproduce these collected links, I developed a website in React JS, which

@@ -49,22 +49,23 @@ nav_exclude: # The following paths are excluded from navbar
 author:
   name: Marc Vila Gómez
   image: /assets/img/profile.png
+  linkedin: marcvilagomez
+  github: LaQuay
+  scholar: dJvoBz8AAAAJ
+  medium: laquay
+  stackoverflow: 4314686
+  twitter: GrimmSour
   # behance           : your_username
   # dribbble          : your_username
   # email: hola@marcvila.me EDITED IN social.html
   # facebook          : your_username
-  github: LaQuay
   # gitlab            : your_username
   # instagram         : your_username
   # kaggle            : your_username
-  linkedin: marcvilagomez
-  medium: laquay
   # soundcloud        : your_username
   # spotify           : your_username
-  stackoverflow: 4314686
   # tumblr            : your_username.tumblr.com
   # twitch            : your_username
-  twitter: GrimmSour
   # vimeo             : your_username
   # youtube           : your_channel_name
 
