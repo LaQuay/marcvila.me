@@ -3,7 +3,7 @@
 This project is using [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU), many thanks!
 
 # Setup
-Ruby is a requirement. At this time, using Ruby 3.0.2.
+[Ruby](https://gorails.com/setup/ubuntu/22.04) is a requirement, this repo has been tested in Ruby 3.2.1
 
 Install the jekyll and bundler gems: 
 
@@ -12,10 +12,6 @@ Install the jekyll and bundler gems:
 Install Gemfile contents:
 
 `bundle install`
-
-Install webrick:
-
-`bundle add webrick`
 
 # Run
 

@@ -31,12 +31,23 @@ technical deployments, and more easily scalable.
 
 # **Publications**
 
-- [Edge-to-Cloud Sensing and Actuation Semantics in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S1574119222001122). M. Vila, V. Casamayor, S. Dustdar, E. Teniente. Pervasive and Mobile Computing Journal, 2022.
+- Monitoring, IoT Devices, and Semantics. 
+<br>M. Vila, MR. Sancho, E. Teniente. Int. Conf. on Pervasive Computing and Communications, PerCom 2023, Demo Paper. (To be published)
 
-- [Semantics for Connectivity Management in IoT Sensing](https://link.springer.com/chapter/10.1007/978-3-030-89022-3_24). M. Vila, MR. Sancho, E. Teniente, X. Vilajosana. International Conference on Conceptual Modeling, ER 2021.
+- Internet of Things Semantic-Based Monitoring of Infrastructures using a Microservices Architecture. 
+<br>M. Vila. Int. Conf. on Service-Oriented Computing, ICSOC PhD Symposium 2022. (To be published)
 
-- [XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_43). M. Vila, MR. Sancho, E. Teniente. International Conference on Service-Oriented Computing, ICSOC Workshops 2020. STRAPS.
+- [Edge-to-Cloud Sensing and Actuation Semantics in the Industrial Internet of Things](https://doi.org/10.1016/j.pmcj.2022.101699). 
+<br>M. Vila, V. Casamayor, S. Dustdar, E. Teniente. Pervasive and Mobile Computing Journal, 2022.
 
-- [Consuming data sources to generate actionable items](https://upcommons.upc.edu/handle/2117/132183). M. Vila, MR. Sancho, J. Gorchs, 2019 (MSc Thesis).
+- [Semantics for Connectivity Management in IoT Sensing](https://doi.org/10.1007/978-3-030-89022-3_24).
+<br>M. Vila, MR. Sancho, E. Teniente, X. Vilajosana. Int. Conf. on Conceptual Modeling, ER 2021.
 
-- [APi-City: Integrant i-City en Android](https://upcommons.upc.edu/handle/2117/82383). M. Vila, J. Montero, J. Casanovas, 2016 (BSc Thesis).
+- [XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices](https://doi.org/10.1007/978-3-030-76352-7_43).
+<br>M. Vila, MR. Sancho, E. Teniente. Int. Conf. on Service-Oriented Computing, ICSOC Workshops 2020, STRAPS.
+
+- [Consuming data sources to generate actionable items](https://hdl.handle.net/2117/132183).
+<br>M. Vila, MR. Sancho, J. Gorchs, 2019 (MSc Thesis).
+
+- [APi-City: Integrant i-City en Android](https://hdl.handle.net/2117/82383). 
+<br>M. Vila, J. Montero, J. Casanovas, 2016 (BSc Thesis).
