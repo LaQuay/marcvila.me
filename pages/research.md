@@ -31,11 +31,17 @@ technical deployments, and more easily scalable.
 
 # **Publications**
 
-- [Edge-to-Cloud Sensing and Actuation Semantics in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S1574119222001122). M. Vila, V. Casamayor, S. Dustdar, E. Teniente. Pervasive and Mobile Computing Journal, 2022.
+- [Modeling Context-Aware Events and Responses in an IoT Environment](). M. Vila, M.-R. Sancho, E. Teniente. International Conference on Advanced Information Systems Engineering, CAiSE, 2023. (To be published)
 
-- [Semantics for Connectivity Management in IoT Sensing](https://link.springer.com/chapter/10.1007/978-3-030-89022-3_24). M. Vila, MR. Sancho, E. Teniente, X. Vilajosana. International Conference on Conceptual Modeling, ER 2021.
+- [Monitoring, IoT Devices, and Semantics](). M. Vila, M.-R. Sancho, E. Teniente. International Conference on Pervasive Computing and Communications, Demo Track, PerCom, 2023. (To be published)
 
-- [XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_43). M. Vila, MR. Sancho, E. Teniente. International Conference on Service-Oriented Computing, ICSOC Workshops 2020. STRAPS.
+- [Internet of Things Semantic-Based Monitoring of Infrastructures using a Microservices Architecture](https://doi.org/10.1007/978-3-031-26507-5_27). M. Vila. International Conference on Service-Oriented Computing. Ph.D. Symposium, ICSOC Workshops, 2022.
+
+- [Edge-to-Cloud Sensing and Actuation Semantics in the Industrial Internet of Things](https://doi.org/10.1016/j.pmcj.2022.101699). M. Vila, V. Casamayor, S. Dustdar, E. Teniente. Pervasive and Mobile Computing Journal, 2022.
+
+- [Semantics for Connectivity Management in IoT Sensing](https://doi.org/10.1007/978-3-030-89022-3_24). M. Vila, MR. Sancho, E. Teniente, X. Vilajosana. International Conference on Conceptual Modeling, ER, 2021.
+
+- [XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices](https://doi.org/10.1007/978-3-030-76352-7_43). M. Vila, MR. Sancho, E. Teniente. International Conference on Service-Oriented Computing, STRAPS, ICSOC Workshops, 2020.
 
 - [Consuming data sources to generate actionable items](https://upcommons.upc.edu/handle/2117/132183). M. Vila, MR. Sancho, J. Gorchs, 2019 (MSc Thesis).
 
