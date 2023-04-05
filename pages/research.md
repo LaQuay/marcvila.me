@@ -43,6 +43,14 @@ technical deployments, and more easily scalable.
 
 - [XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices](https://doi.org/10.1007/978-3-030-76352-7_43). M. Vila, MR. Sancho, E. Teniente. International Conference on Service-Oriented Computing, STRAPS, ICSOC Workshops, 2020.
 
-- [Consuming data sources to generate actionable items](https://upcommons.upc.edu/handle/2117/132183). M. Vila, MR. Sancho, J. Gorchs, 2019 (MSc Thesis).
+- [Semantics for Connectivity Management in IoT Sensing](https://doi.org/10.1007/978-3-030-89022-3_24).
+  <br>M. Vila, MR. Sancho, E. Teniente, X. Vilajosana. Int. Conf. on Conceptual Modeling, ER 2021.
 
-- [APi-City: Integrant i-City en Android](https://upcommons.upc.edu/handle/2117/82383). M. Vila, J. Montero, J. Casanovas, 2016 (BSc Thesis).
+- [XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices](https://doi.org/10.1007/978-3-030-76352-7_43).
+  <br>M. Vila, MR. Sancho, E. Teniente. Int. Conf. on Service-Oriented Computing, ICSOC Workshops 2020, STRAPS.
+
+- [Consuming data sources to generate actionable items](https://hdl.handle.net/2117/132183).
+  <br>M. Vila, MR. Sancho, J. Gorchs, 2019 (MSc Thesis).
+
+- [APi-City: Integrant i-City en Android](https://hdl.handle.net/2117/82383).
+  <br>M. Vila, J. Montero, J. Casanovas, 2016 (BSc Thesis).
