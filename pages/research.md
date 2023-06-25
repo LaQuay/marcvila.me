@@ -29,11 +29,16 @@ technical deployments, and more easily scalable.
 
 <i>Keywords: Internet of Things, Semantics, Cyber-Physical Systems, Microservices</i>
 
+[DBLP](https://dblp.org/pid/320/5048-1.html) or [ORCID](https://orcid.org/0000-0002-5621-6543).
+
 # **Publications**
 
-- [Modeling Context-Aware Events and Responses in an IoT Environment](). M. Vila, M.-R. Sancho, E. Teniente. International Conference on Advanced Information Systems Engineering, CAiSE, 2023. (To be published)
+- [Critical Infrastructure Awareness based on IoT Context Data](). M. Vila, M.-R. Sancho, E. Teniente, X. Vilajosana. Advances in
+  Context-awareness in Internet of Mobile Things. Internet of Things Journal, Volume ¿?, 2023. (To be published)
 
-- [Monitoring, IoT Devices, and Semantics](). M. Vila, M.-R. Sancho, E. Teniente. International Conference on Pervasive Computing and Communications, Demo Track, PerCom, 2023. (To be published)
+- [Modeling Context-Aware Events and Responses in an IoT Environment](https://doi.org/10.1007/978-3-031-34560-9_5). M. Vila, M.-R. Sancho, E. Teniente. International Conference on Advanced Information Systems Engineering, CAiSE, 2023.
+
+- [Monitoring, IoT Devices, and Semantics](https://doi.org/10.1109/PerComWorkshops56833.2023.10150279). M. Vila, M.-R. Sancho, E. Teniente. International Conference on Pervasive Computing and Communications, Demo Track, PerCom, 2023.
 
 - [Internet of Things Semantic-Based Monitoring of Infrastructures using a Microservices Architecture](https://doi.org/10.1007/978-3-031-26507-5_27). M. Vila. International Conference on Service-Oriented Computing. Ph.D. Symposium, ICSOC Workshops, 2022.
 
