@@ -26,7 +26,8 @@ target='_blank'>MSc in Internet of Things - UPC School</a>.<br>
 💻 On my spare time, I am leading <a href='/projects/1-tdtchannels' target='_blank'> TDTChannels</a>. Also co-leading <a href='/projects/3-ruedoenelectrica' target='_blank'> Ruedoeneléctrica</a> and <a href='/projects/2-catalunya-meteo' target='_blank'> CatalunyaMeteo</a>. <br>
 <br>
 🏃 Running + 🚴 Cycling + ⚽ Futsal + ⛅ Meteo.<br>
-🐢 _Trachemys scripta elegans_ + 🐢 _Trachemys scripta scripta_ + 🦜 _Nymphicus hollandicus (normal-grey)_.
+🐢 _Trachemys scripta elegans_ + 🐢 _Trachemys scripta scripta_.<br>
+🦜 _Nymphicus hollandicus (normal-grey)_ + 🦜 _Nymphicus hollandicus (albino)_.
 
 📫 If you are interested in working with me or anything similar, feel free to get in touch.
 
@@ -34,7 +35,7 @@ target='_blank'>MSc in Internet of Things - UPC School</a>.<br>
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
-And other technologies / frameworks / tools, such as: Java, Javascript, Flask, Angular, Nginx, 
+And other technologies / frameworks / tools, such as: Java, Javascript, Flask, FastAPI, Nginx, 
 InfluxDB, NodeJS, C++, C, Firebase, Grafana, SQL, HTML, XML, CSS, ...
 
 # **Work Experience**

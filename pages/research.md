@@ -29,12 +29,14 @@ technical deployments, and more easily scalable.
 
 <i>Keywords: Internet of Things, Semantics, Cyber-Physical Systems, Microservices</i>
 
-[DBLP](https://dblp.org/pid/320/5048-1.html) or [ORCID](https://orcid.org/0000-0002-5621-6543).
+[Google Scholar](https://scholar.google.com/citations?user=dJvoBz8AAAAJ) - [DBLP](https://dblp.org/pid/320/5048-1.html) - [ORCID](https://orcid.org/0000-0002-5621-6543).
 
 # **Publications**
 
-- [Critical Infrastructure Awareness based on IoT Context Data](). M. Vila, M.-R. Sancho, E. Teniente, X. Vilajosana. Advances in
-  Context-awareness in Internet of Mobile Things. Internet of Things Journal, Volume ¿?, 2023. (To be published)
+- [Relating Context and Self Awareness in the Internet of Things](). D. Arnaiz, M. Vila, E. Alarcón, F. Moll, M.-R. Sancho, E. Teniente. International Conference on Cooperative Information Systems, CoopIS, 2023. (To be published)
+
+- [Critical Infrastructure Awareness based on IoT Context Data](https://doi.org/10.1016/j.iot.2023.100855). M. Vila, M.-R. Sancho, E. Teniente, X. Vilajosana. Advances in
+  Context-awareness in Internet of Mobile Things. Internet of Things Journal, Volume 23, 2023.
 
 - [Modeling Context-Aware Events and Responses in an IoT Environment](https://doi.org/10.1007/978-3-031-34560-9_5). M. Vila, M.-R. Sancho, E. Teniente. International Conference on Advanced Information Systems Engineering, CAiSE, 2023.
 

@@ -1,16 +1,23 @@
 - title: Software Engineer
-  from: 2018
+  from: June 2018
   to: Present
   company: Worldsensing
   location: Barcelona, Spain
   description: >
     Designing and implementing the software side at the Innovation Department. Mostly Microservices
-    Architectures, backend development with Docker, Python, Flask, React, SQL, and Timeseries
+    Architectures, backend development with Docker, Python, FastAPI, Flask, React, SQL, and Timeseries
     databases. Frontend with React. Mobile development with Android.
 
-- title: Associate Professor
-  from: 2018
+- title: Tech Advisor
+  from: March 2023
   to: Present
+  company: QALEA Cybersecurity
+  location: Barcelona, Spain
+  description: ""
+
+- title: Associate Professor
+  from: March 2018
+  to: July 2022
   company: UPC School
   location: Barcelona, Spain
   description: >
@@ -19,8 +26,8 @@
     through APIs, and data visualization. Combining these elements with an IoT ecosystem.
 
 - title: Associate Professor
-  from: 2019
-  to: 2019
+  from: December 2019
+  to: January 2020
   company: CIFO Hospitalet
   location: Hospitalet de Llobregat, Spain
   description: >
@@ -29,8 +36,8 @@
     through APIs, and data visualization. Combining these elements with an IoT ecosystem.
 
 - title: Software Developer
-  from: 2014
-  to: 2018
+  from: September 2014
+  to: June 2018
   company: InLab FIB UPC
   location: Barcelona, Spain
   description: >
