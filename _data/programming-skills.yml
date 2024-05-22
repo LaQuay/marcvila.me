@@ -1,19 +1,19 @@
-- name: Python
-  percentage: 90
+- name: Python + FastAPI
+  percentage: 100
   showPercentage: false
   color: success
 
 - name: Docker
-  percentage: 85
+  percentage: 100
   showPercentage: false
   color: primary
 
-- name: Android
-  percentage: 80
-  showPercentage: false
-  color: warning
-
-- name: React JS
-  percentage: 60
+- name: React + Typescript
+  percentage: 100
   showPercentage: false
   color: info
+
+- name: Android (in Java)
+  percentage: 100
+  showPercentage: false
+  color: warning

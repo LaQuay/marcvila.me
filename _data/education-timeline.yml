@@ -1,14 +1,13 @@
-- degree: Industrial PhD in Computer Science
+- degree: PhD in Computer Science
   school: Universitat Politècnica de Catalunya
   location: Barcelona, Spain
   from: 2019
-  to: Present
+  to: 2024
   description: >
-    <a href="https://computing.phd.upc.edu/en/phd-data/general-information" target="_blank">Computer Science</a> department - Information Modeling & Processing.
+    <a href='/research/' target='_blank'>Research Topic</a> - Cum Laude, International (*), and Industrial mentions (<a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>).
+    <br>(*) Visiting Scientist at <a href="https://dsg.tuwien.ac.at/" target="_blank">Distributed Systems Group</a> (TU Wien), September to December 2021.
     <br>
-    Monitoring of IoT Industrial Infrastructures through Semantics, Ontologies 
-    and Microservices Architectures. <br><br>
-    <b>Visiting Scientist</b> at Technische Universität Wien, <a href="https://dsg.tuwien.ac.at/" target="_blank">Distributed Systems Group</a>, from September to December 2021.
+    <br><a href="https://computing.phd.upc.edu/en/phd-data/general-information" target="_blank">Computer Science</a> department - Information Modeling & Processing.
 
 - degree: MSc in Computer Science
   study: Direction and Management & Information Technologies
@@ -17,8 +16,8 @@
   from: 2016
   to: 2019
   description: >
-    <a href="https://www.fib.upc.edu/en/studies/masters/master-informatics-engineering/curriculum" target="_blank">Master's Curriculum</a>. 
     Top 3 promotion.
+    <br><a href="https://www.fib.upc.edu/en/studies/masters/master-informatics-engineering/curriculum" target="_blank">Master's Curriculum</a>.
 
 - degree: BSc in Computer Science
   study: Computer Engineering
@@ -27,6 +26,6 @@
   from: 2011
   to: 2016
   description: >
-    <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum" target="_blank">Base degree curriculum</a>. 
-    <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/specializations/computer-engineering">Computer Engineering specialization curriculum</a>. 
     Top 50 of 235 promotion.
+    <br><a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum" target="_blank">Base degree curriculum</a>. 
+    <br><a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/specializations/computer-engineering">Computer Engineering specialization curriculum</a>.

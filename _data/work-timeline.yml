@@ -1,19 +1,32 @@
-- title: Software Engineer
+- title: Software Engineer & Team Leader
   from: June 2018
   to: Present
   company: Worldsensing
   location: Barcelona, Spain
   description: >
-    Designing and implementing the software side at the Innovation Department. Mostly Microservices
-    Architectures, backend development with Docker, Python, FastAPI, Flask, React, SQL, and Timeseries
-    databases. Frontend with React. Mobile development with Android.
+    <b>August 2023 - Present</b><br>
+    I manage a full-stack cloud software team of eight members in an agile (Scrum) environment, driving the development and delivery of the company's core software-cloud product. As a Software Engineer, I apply cloud-native solutions to develop backend and frontend solutions for the main cloud product.
+    <br>Tech: Python, FastAPI, Flask, React, Typescript, Java, Docker, PostgreSQL, MongoDB, Redis.
+    <br>Tools: Google Cloud Platform, SonarCloud, Cloudflare, QATouch.
+    <br>
+    <b>January 2022 - August 2023</b><br>
+    Led the Innovation Software team, a three-person team (plus cross-team collaboration). Lead Engineer for several projects, driving them to successful on-time delivery with exceptional results.
+    <br>Tech: Python, Flask, FastAPI, React, Typescript, Docker, PostgreSQL, MongoDB.
+    <br>Tools: Grafana, SonarCloud, Google Cloud Platform.
+    <br>
+    <b>June 2018 - January 2022</b><br>
+    Defined, designed, and implemented software projects at the Innovation department. Using Microservices architectures, REST APIs, and Agile methodologies. Backend, Frontend, DevOps, and Android developer.
+    <br>Tech: Python, Flask, Docker, React, SQL, NoSQL, InfluxDB, Android, Grafana.
+    <br>Tools: Jenkins, Telegraf, Google Cloud Platform.
 
 - title: Tech Advisor
   from: March 2023
-  to: Present
+  to: March 2024
   company: QALEA Cybersecurity
   location: Barcelona, Spain
-  description: ""
+  description: >
+    Architected and led the software that powered the product launch, establishing the infrastructure from 
+    the ground up and serving as technical advisor.
 
 - title: Associate Professor
   from: March 2018

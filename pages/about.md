@@ -15,28 +15,31 @@ weight: 5
 [![Website](https://img.shields.io/website?label=marcvila.me&style=flat-square&url=http%3A%2F%2Fmarcvila.me%2F)](https://www.marcvila.me)
 
 I am **{{ site.author.name }}**,<br>
-A Software Engineer based in Barcelona. BSc + MSc in Computer Science.<br>
+A Software Engineer based in Barcelona. PhD 'cum laude' + MSc + BSc in Computer Science.<br>
 <br>
-🌱 Industrial Ph.D. Student in Computer Science at <a href='https://computing.phd.upc.edu/en/phd-data'
-target='_blank'>Universitat Politècnica de Catalunya</a> with <a
-href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>.
-Doing research at the university, and also working at the company. Both environments are focused towards my <a href='/research/' target='_blank'>Research Topic</a>: `Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures`.<br>
-🎓 Teaching Android for Industrial Internet of Things environments at <a href='https://www.talent.upc.edu/ing/estudis/formacio/curs/200100/master-degree-internet-iot/'
-target='_blank'>MSc in Internet of Things - UPC School</a>.<br>
-💻 On my spare time, I am leading <a href='/projects/1-tdtchannels' target='_blank'> TDTChannels</a>. Also co-leading <a href='/projects/3-ruedoenelectrica' target='_blank'> Ruedoeneléctrica</a> and <a href='/projects/2-catalunya-meteo' target='_blank'> CatalunyaMeteo</a>. <br>
+🌎 Software Engineer & Team Leader at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>.<br>
+🎓 Ph.D. in Computer Science 'cum laude' from the <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a>,
+with International mention and Industrial mention.
+About my PhD <a href='/research/' target='_blank'>Research Topic</a>: `Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures`.<br>
+🏢 Founder of <a href='/projects/1-tdtchannels' target='_blank'> TDTChannels</a>, a platform to watch television and radio, for free!<br>
+💻 On my spare time, I am co-leading <a href='/projects/3-ruedoenelectrica' target='_blank'> Ruedoeneléctrica</a> and <a href='/projects/2-catalunya-meteo' target='_blank'> CatalunyaMeteo</a>. <br>
+<br>
+📫 If you are interested in working with me or anything similar, feel free to get in touch.
+<br>
 <br>
 🏃 Running + 🚴 Cycling + ⚽ Futsal + ⛅ Meteo.<br>
 🐢 _Trachemys scripta elegans_ + 🐢 _Trachemys scripta scripta_.<br>
 🦜 _Nymphicus hollandicus (normal-grey)_ + 🦜 _Nymphicus hollandicus (albino)_.
 
-📫 If you are interested in working with me or anything similar, feel free to get in touch.
-
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
-And other technologies / frameworks / tools, such as: Java, Javascript, Flask, FastAPI, Nginx, 
-InfluxDB, NodeJS, C++, C, Firebase, Grafana, SQL, HTML, XML, CSS, ...
+Other languages: Java, Javascript, C++, C, SQL, HTML, XML, CSS, ...
+<br>
+Other technologies / frameworks: FastAPI, Flask, Nginx, InfluxDB, NodeJS, ...
+<br>
+Other tools, such as: Firebase, Grafana, OpenSearch, SonarCloud, QATouch, ...
 
 # **Work Experience**
 
