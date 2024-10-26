@@ -33,6 +33,8 @@ technical deployments, and more easily scalable.
 
 # **Publications**
 
+- [Critical Infrastructure Awareness based on IoT Context Data](https://hdl.handle.net/11705/JCIS/2024/1). M. Vila, M.-R. Sancho, E. Teniente, X. Vilajosana. Actas de las XIX Jornadas de Ciencia e Ingeniería de Servicios (JCIS 2024). Sistedes (2024).
+
 - [Relating Context and Self Awareness in the Internet of Things](https://doi.org/10.1007/978-3-031-46846-9_21). D. Arnaiz, M. Vila, E. Alarcón, F. Moll, M.-R. Sancho, E. Teniente. International Conference on Cooperative Information Systems, CoopIS, 2023.
 
 - [Critical Infrastructure Awareness based on IoT Context Data](https://doi.org/10.1016/j.iot.2023.100855). M. Vila, M.-R. Sancho, E. Teniente, X. Vilajosana. Advances in
