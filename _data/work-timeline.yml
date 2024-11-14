@@ -4,17 +4,14 @@
   company: Worldsensing
   location: Barcelona, Spain
   description: >
-    <b>August 2023 - Present</b><br>
-    I manage a full-stack cloud software team of eight members in an agile (Scrum) environment, driving the development and delivery of the company's core software-cloud product. As a Software Engineer, I apply cloud-native solutions to develop backend and frontend solutions for the main cloud product.
-    <br>Tech: Python, FastAPI, Flask, React, Typescript, Java, Docker, PostgreSQL, MongoDB, Redis.
-    <br>Tools: Google Cloud Platform, SonarCloud, Cloudflare, QATouch.
+    <b>January 2022 - Present</b><br>
+    I <b>manage a full-stack software team</b> of nine members in an agile (Scrum) environment, driving the development and delivery of the company's core software-cloud product. Expanded the team from 3 developers to 7 devs and 2 QA.
+    <br><b>As a Software Engineer</b>, I apply cloud-native solutions to <b>develop backend and frontend</b> solutions for the main cloud product. As well, Lead Engineer of successful projects, e.g. AMICOS and Int5Gent, driving them to on-time delivery with exceptional results.
+    <br>Tech: Python, Flask, FastAPI, React, Typescript, Java, Docker, PostgreSQL, MongoDB, Redis.
+    <br>Tools: Google Cloud Platform, ArgoCD, Grafana, Cloudflare, OpenSearch, SonarCloud.
     <br>
-    <b>January 2022 - August 2023</b><br>
-    Led the Innovation Software team, a three-person team (plus cross-team collaboration). Lead Engineer for several projects, driving them to successful on-time delivery with exceptional results.
-    <br>Tech: Python, Flask, FastAPI, React, Typescript, Docker, PostgreSQL, MongoDB.
-    <br>Tools: Grafana, SonarCloud, Google Cloud Platform.
     <br>
-    <b>June 2018 - January 2022</b><br>
+    <b>Software Engineer</b> <i>(June 2018 - January 2022)</i><br>
     Defined, designed, and implemented software projects at the Innovation department. Using Microservices architectures, REST APIs, and Agile methodologies. Backend, Frontend, DevOps, and Android developer.
     <br>Tech: Python, Flask, Docker, React, SQL, NoSQL, InfluxDB, Android, Grafana.
     <br>Tools: Jenkins, Telegraf, Google Cloud Platform.
