@@ -4,10 +4,9 @@
   from: 2019
   to: 2024
   description: >
-    <a href='/research/' target='_blank'>Research Topic</a> - Cum Laude, International (*), and Industrial mentions (<a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>).
-    <br>(*) Visiting Scientist at <a href="https://dsg.tuwien.ac.at/" target="_blank">Distributed Systems Group</a> (TU Wien), September to December 2021.
-    <br>
-    <br><a href="https://computing.phd.upc.edu/en/phd-data/general-information" target="_blank">Computer Science</a> department - Information Modeling & Processing.
+    <a href='/research/'>Thesis</a>: <i>"Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures"</i>.
+    <br>Cum Laude, International, and Industrial mentions (<a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>).
+    <br>Visiting Scientist at <a href="https://dsg.tuwien.ac.at/" target="_blank">Distributed Systems Group</a> (TU Wien), September to December 2021.
 
 - degree: MSc in Computer Science
   study: Direction and Management & Information Technologies
@@ -16,8 +15,8 @@
   from: 2016
   to: 2019
   description: >
-    Top 3 promotion.
-    <br><a href="https://www.fib.upc.edu/en/studies/masters/master-informatics-engineering/curriculum" target="_blank">Master's Curriculum</a>.
+    Grade: 8.7 (Top 3 of 23) - <a href="https://www.fib.upc.edu/en/studies/masters/master-informatics-engineering/curriculum" target="_blank">Master's Curriculum</a>.
+    <br>Final Degree project: <a href="https://upcommons.upc.edu/handle/2117/132183" target="_blank">Consuming data sources to generate actionable items</a>.
 
 - degree: BSc in Computer Science
   study: Computer Engineering
@@ -26,6 +25,6 @@
   from: 2011
   to: 2016
   description: >
-    Top 50 of 235 promotion.
-    <br><a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum" target="_blank">Base degree curriculum</a>. 
-    <br><a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/specializations/computer-engineering">Computer Engineering specialization curriculum</a>.
+    Grade: 7.4 (Top 50 of 242) - <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum" target="_blank">Base degree</a> and specialization in 
+    <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/specializations/computer-engineering">Computer Engineering</a> curriculums.
+    <br>Final Degree Project: <a href="https://inlab.fib.upc.edu/en/projecte/parkfinder/" target="_blank">ParkFinder SEAT</a> (More info in Work Experience section, InLab FIB UPC).

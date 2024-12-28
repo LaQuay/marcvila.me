@@ -4,14 +4,14 @@
   company: Worldsensing
   location: Barcelona, Spain
   description: >
-    <b>January 2022 - Present</b><br>
+    <b>Software Engineer & Team Leader</b> | <i>January 2022 - Present</i><br>
     I <b>manage a full-stack software team</b> of nine members in an agile (Scrum) environment, driving the development and delivery of the company's core software-cloud product. Expanded the team from 3 developers to 7 devs and 2 QA.
     <br><b>As a Software Engineer</b>, I apply cloud-native solutions to <b>develop backend and frontend</b> solutions for the main cloud product. As well, Lead Engineer of successful projects, e.g. AMICOS and Int5Gent, driving them to on-time delivery with exceptional results.
-    <br>Tech: Python, Flask, FastAPI, React, Typescript, Java, Docker, PostgreSQL, MongoDB, Redis.
+    <br>Tech: Python, Flask, FastAPI, React, Typescript, Java, Docker, PostgreSQL, MongoDB, Redis, Keycloak.
     <br>Tools: Google Cloud Platform, ArgoCD, Grafana, Cloudflare, OpenSearch, SonarCloud.
     <br>
     <br>
-    <b>Software Engineer</b> <i>(June 2018 - January 2022)</i><br>
+    <b>Software Engineer</b> | <i> June 2018 - January 2022</i><br>
     Defined, designed, and implemented software projects at the Innovation department. Using Microservices architectures, REST APIs, and Agile methodologies. Backend, Frontend, DevOps, and Android developer.
     <br>Tech: Python, Flask, Docker, React, SQL, NoSQL, InfluxDB, Android, Grafana.
     <br>Tools: Jenkins, Telegraf, Google Cloud Platform.
@@ -62,7 +62,7 @@
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_3.png" target="_blank">Screenshot 3</a>,
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_4.png" target="_blank">Screenshot 4</a>,
       <a href="/assets/img/works/inlab/screen_seat_parkfinder_5.png" target="_blank">Screenshot 5</a>) 
-      (<a href="https://inlab.fib.upc.edu/es/parkfinder" target="_blank">InLab</a>,
+      (<a href="https://inlab.fib.upc.edu/es/projecte/parkfinder/" target="_blank">InLab</a>,
       <a href="https://www.elperiodico.com/es/economia/20151120/seat-prueba-en-barcelona-una-aplicacion-para-encontrar-parking-en-la-calle-4687063" target="_blank">El Periódico</a>,
       <a href="https://www.lavanguardia.com/ocio/20151121/30305085094/seat-aparcamiento-encontrar-ciudad-parkfinder-aplicacion-dificultades-app-icity.html" target="_blank">La Vanguardia</a>,
       <a href="https://cronicaglobal.elespanol.com/business/parkfinder-se-acabo-dar-vueltas-para-buscar-aparcamiento_63686_102.html" target="_blank">Crónica Global</a>,

@@ -20,8 +20,8 @@ A Software Engineer based in Barcelona. PhD 'cum laude' + MSc + BSc in Computer 
 🌎 Software Engineer & Team Leader at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>.<br>
 🎓 Ph.D. in Computer Science 'cum laude' from the <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a>,
 with International mention and Industrial mention.
-About my PhD <a href='/research/' target='_blank'>Research Topic</a>: `Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures`.<br>
-🏢 Founder of <a href='/projects/1-tdtchannels' target='_blank'> TDTChannels</a>, a platform to watch television and radio, for free!<br>
+You can read more about my research <a href='/research/' target='_blank'>here</a>: `Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures`.<br>
+🏢 Founder of <a href='/projects/1-tdtchannels' target='_blank'> TDTChannels</a>, an online platform to watch television and listen the radio, for free!<br>
 💻 On my spare time, I am co-leading <a href='/projects/3-ruedoenelectrica' target='_blank'> Ruedoeneléctrica</a> and <a href='/projects/2-catalunya-meteo' target='_blank'> CatalunyaMeteo</a>. <br>
 <br>
 📫 If you are interested in working with me or anything similar, feel free to get in touch.
@@ -37,7 +37,7 @@ About my PhD <a href='/research/' target='_blank'>Research Topic</a>: `Monitorin
 </div>
 Other languages: Java, Javascript, C++, C, SQL, HTML, XML, CSS, ...
 <br>
-Other technologies / frameworks: FastAPI, Flask, Nginx, InfluxDB, NodeJS, ...
+Other technologies / frameworks: Flask, Nginx, InfluxDB, NodeJS, Keycloak...
 <br>
 Other databases: Postgres as main relational SQL; MongoDB as NoSQL and as well InfluxDB.
 <br>

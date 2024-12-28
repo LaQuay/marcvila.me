@@ -7,17 +7,19 @@ weight: 4
 
 # **Research**
 
+<b>Read the Thesis online</b>: [IoT semantic-based monitoring of infrastructures using a microservices architecture](https://www.tdx.cat/handle/10803/693060).
+Author: Vila Gómez, Marc | Advised by: Sancho Samsó, María Ribera and Teniente López, Ernest.
+
 <h2 class="mb-3">Research Topic</h2>
 
 <b>In short</b>: Monitoring physical infrastructures using Internet of Things devices, Semantics and
 Microservices Architectures.
 
-The aim of the research, within the framework of the industrial doctorate I am doing, is to <b>cover
-from start to finish what can be accomplished based on the reading of an IoT sensor</b>. With these
-data, be able to <b>obtain the information</b> embedded in it, <b>monitor it</b>, and be able to
-<b>act if necessary</b>.
+The aim of the research, within the framework of an industrial doctorate, is to <b>cover from start
+to finish what can be accomplished based on a reading (or data) of an IoT sensor</b>. With these data, be able
+to <b>obtain the information</b> embedded in it, <b>monitor it</b>, and be able to <b>act if necessary</b>.
 
-Part of the work within this research will be to find a way to <b>generalize or homogenise or the
+Part of the work within this research has been to find a way to <b>generalise or homogenise or the
 data input</b> format from the sensors to the system, adding <b>semantics and ontologies</b> to it.
 To provide it with a <b>common data input format for the entire IoT ecosystem</b>, and to propose
 alternatives for the academic world in general.
