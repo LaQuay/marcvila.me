@@ -1,7 +1,9 @@
 ---
 name: SomAparcament
 subtitle: SomHackathon 2018 - Spain
-tools: [2nd Place Global, Android, Flask, SQLite, Javascript]
+award: "2nd Place Global"
+award_icon: "🥈"
+tools: [Android, Flask, SQLite, Javascript]
 image: /assets/img/hackathons/somhackathon_2018/featured.png
 description:
   Improve the mobility of urban spaces, through the management, monitoring and analysis of the use of limited parking areas.

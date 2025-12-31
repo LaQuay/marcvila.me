@@ -12,8 +12,8 @@ Author: Vila Gómez, Marc | Advised by: Sancho Samsó, María Ribera and Tenient
 
 <h2 class="mb-3">Research Topic</h2>
 
-<b>In short</b>: Monitoring physical infrastructures using Internet of Things devices, Semantics and
-Microservices Architectures.
+<b>In short: Monitoring physical infrastructures using Internet of Things devices, Semantics and
+Microservices Architectures.</b>
 
 The aim of the research, within the framework of an industrial doctorate, is to <b>cover from start
 to finish what can be accomplished based on a reading (or data) of an IoT sensor</b>. With these data, be able
@@ -35,6 +35,8 @@ technical deployments, and more easily scalable.
 
 # **Publications**
 
+- [PhD Thesis] [IoT semantic-based monitoring of infrastructures using a microservices architecture](https://www.tdx.cat/handle/10803/693060). M. Vila, M.-R. Sancho, E. Teniente (2024).
+
 - [Critical Infrastructure Awareness based on IoT Context Data](https://hdl.handle.net/11705/JCIS/2024/1). M. Vila, M.-R. Sancho, E. Teniente, X. Vilajosana. Actas de las XIX Jornadas de Ciencia e Ingeniería de Servicios (JCIS 2024). Sistedes (2024).
 
 - [Relating Context and Self Awareness in the Internet of Things](https://doi.org/10.1007/978-3-031-46846-9_21). D. Arnaiz, M. Vila, E. Alarcón, F. Moll, M.-R. Sancho, E. Teniente. International Conference on Cooperative Information Systems, CoopIS, 2023.
@@ -54,8 +56,8 @@ technical deployments, and more easily scalable.
 
 - [XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices](https://doi.org/10.1007/978-3-030-76352-7_43). M. Vila, MR. Sancho, E. Teniente. International Conference on Service-Oriented Computing, STRAPS, ICSOC Workshops, 2020.
 
-- [Consuming data sources to generate actionable items](https://hdl.handle.net/2117/132183).
+- [MSc Thesis] [Consuming data sources to generate actionable items](https://hdl.handle.net/2117/132183).
   <br>M. Vila, MR. Sancho, J. Gorchs, 2019 (MSc Thesis).
 
-- [APi-City: Integrant i-City en Android](https://hdl.handle.net/2117/82383).
+- [BSc Thesis] [APi-City: Integrant i-City en Android](https://hdl.handle.net/2117/82383).
   <br>M. Vila, J. Montero, J. Casanovas, 2016 (BSc Thesis).

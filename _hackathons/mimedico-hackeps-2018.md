@@ -1,7 +1,9 @@
 ---
 name: Mi Médico
 subtitle: HackEPS 2018 - Spain
-tools: [1st Place in Challenge, Amazon Lambda, Amazon Alexa, Serverless]
+award: "1st Place Challenge"
+award_icon: "🥇"
+tools: [Amazon Lambda, Amazon Alexa, Serverless]
 image: /assets/img/hackathons/hackeps_2018/featured.png
 description:
   Amazon Alexa skill to help people doing (easy) medical tasks.

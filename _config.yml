@@ -1,27 +1,6 @@
 ### Site Settings ###
 title: Marc Vila
-description: >-
-  Hi there! I am <b>Marc Vila Gómez</b>!
-  <br>
-  Software Engineer. Based in Barcelona.
-  <br>
-  I hold a PhD in Computer Science 'cum laude' from the <a href='https://www.upc.edu' target='_blank'>UPC</a>, international, and industrial mentions. 
-  Currently, Team Leader and Software Engineer at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>. 
-  <br>🗨️🗨️🗨️🗨️<br>
-  Hola! Soy <b>Marc Vila Gómez</b>!
-  <br>
-  Ingeniero Software. Resido en Barcelona.
-  <br>
-  Doctorado Industrial en Ciencias de la Computación 'cum laude' por la <a href='https://www.upc.edu' target='_blank'>UPC</a> con mención internacional e industrial.
-  Actualmente, Team Leader y Software Engineer en <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>. 
-  <br>🗨️🗨️🗨️🗨️<br>
-  Hola! Soc <b>Marc Vila Gómez</b>!
-  <br>
-  Enginyer Software. Resideixo a Barcelona.
-  <br>
-  Doctorat Industrial en Ciències de la Computació 'cum laude' per la <a href='https://www.upc.edu' target='_blank'>UPC</a> amb mencions internacionals i industrials.
-  Actualment, Team Leader i Software Engineer a <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>. 
-  <br>
+description: >
 baseurl: ""
 repository: LaQuay/marcvila.me
 remote_theme: YoussefRaafatNasry/portfolYOU
@@ -46,7 +25,7 @@ author:
   scholar: dJvoBz8AAAAJ
   medium: laquay
   stackoverflow: 4314686
-  twitter: GrimmSour
+  # twitter: GrimmSour
   # behance           : your_username
   # dribbble          : your_username
   # email: hola@marcvila.me EDITED IN social.html

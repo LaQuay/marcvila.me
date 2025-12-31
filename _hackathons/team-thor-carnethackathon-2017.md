@@ -1,7 +1,9 @@
 ---
 name: Team Thor
 subtitle: Carnet Hackathon 2017 - Spain
-tools: [1st Place in Challenge, Android, Google Maps]
+award: "1st Place Challenge"
+award_icon: "🥇"
+tools: [Android, Google Maps]
 image: /assets/img/hackathons/carnethackathon_2017/featured.png
 description:
   Services around microcities, in order to facilitate access to services around

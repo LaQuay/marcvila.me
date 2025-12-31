@@ -1,38 +1,51 @@
 ---
 name: Ruedoeneléctrica
-tools: [Web, Telegram, Docker, MyBB, Wordpress]
+tools: [Web, Community, Platform]
 image: /assets/img/projects/ruedoenelectrica/featured.png
-description: Spanish speaking blog&forum, dedicated to electric mobility, focused on motorcycles.
+description: Spanish community and content platform focused on electric mobility, with a strong emphasis on motorcycles.
+featured: true
+status: active
 ---
 
-This is a project that aims to open up electric mobility to citizens. Specifically in the field of
-motorcycles and light vehicles. To this end, the project consists of a website, a blog and more than
-20 Telegram groups, all done by ourselves.
+**Ruedoeneléctrica** is a Spanish-speaking community and content platform focused on electric
+mobility, with a particular emphasis on electric motorcycles and light vehicles.
 
-Started at the end of 2019, together with David Vicente, a member of <a
-href="http://asovel.blogspot.com/" target="_blank">ASOVEL</a>.
+The project aims to make electric mobility more accessible by combining editorial content with
+community-driven discussion spaces. It is currently active through a public WordPress site and a
+large Telegram-based community.
 
-The whole project is running Dockerized on a server. And for the Telegram, we have out custom BOT,
-also running Dockerized.
+The initiative started in late 2019 together with David Vicente, a member of
+<a href="http://asovel.blogspot.com/" target="_blank">ASOVEL</a>, as an attempt to centralize
+information and discussion around electric two-wheel mobility in Spain.
 
-# The web
+## Community Evolution
 
-Is free to use, available at <a href="https://www.ruedoenelectrica.com/"
-target="_blank">www.ruedoenelectrica.com</a>. This website is running an Open Source forum system,
-<a href="https://mybb.com/" target="_blank">MyBB</a>. Written in PHP, and using PostgreSQL as
-database system.
+During its early stages, the project included a self-hosted discussion forum, which was actively
+operated for approximately one year. Based on usage patterns and community behavior, the forum was
+later discontinued in favor of platforms that better matched how users interacted and communicated.
 
-<img style="margin: 0 !important;" src="/assets/img/projects/ruedoenelectrica/forum.png" width="100%"/>
+Today, the core of the community lives on **Telegram**, where it is organized into around **50
+topic-specific groups**, bringing together **more than 3,000 users** across Spain.
 
-# The blog
+## Web & Content Platform
 
-Is free to use, available at <a href="https://noticias.ruedoenelectrica.com/"
-target="_blank">noticias.ruedoenelectrica.com</a>. This website is running an Open Source Content
-management system, <a href="https://wordpress.com/" target="_blank">Wordpress</a>.
+Ruedoeneléctrica maintains an editorial website built on **WordPress**, where news, articles, and
+updates related to electric mobility are published.
 
-<img style="margin: 0 !important;" src="/assets/img/projects/ruedoenelectrica/blog.png" width="100%"/>
+The website is freely accessible at
+<a href="https://www.ruedoenelectrica.com/" target="_blank">www.ruedoenelectrica.com</a> and serves as
+the public-facing hub for the project, complementing the more conversational nature of the Telegram
+community.
 
-# Telegram
+## Infrastructure
 
-You can join this project at <a href="https://t.me/motoelectricaspain" target="_blank">Telegram -
-Ruedoenelectrica</a>.
+From a technical standpoint, the project has been fully self-hosted and containerized, with both
+web services and custom Telegram tooling running in Docker-based environments.
+
+To support community management and moderation at scale, a custom Telegram bot was implemented
+using the Python Telegram Bot library, enabling automation and operational tooling across the
+different Telegram groups.
+
+<p class="text-center">
+{% include elements/button.html link="https://www.ruedoenelectrica.com/" text="Visit Ruedoeneléctrica" %}
+</p>

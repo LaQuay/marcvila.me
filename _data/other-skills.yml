@@ -1,19 +1,19 @@
-- name: Software Development (See below and left)
+- name: Software Backend & System Design
   percentage: 100
   showPercentage: false
   color: dark
 
-- name: DevOps / Cloud Dev. (Google Cloud, AWS)
+- name: Cloud & Platform (Google Cloud, AWS)
   percentage: 100
   showPercentage: false
   color: dark
 
-- name: Software Modeling
+- name: Data & IoT
   percentage: 100
   showPercentage: false
   color: dark
 
-- name: Agile Methodologies
+- name: Technical Leadership
   percentage: 100
   showPercentage: false
   color: dark

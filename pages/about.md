@@ -14,25 +14,23 @@ weight: 5
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat-square&color=grey)](https://medium.com/@laquay)
 [![Website](https://img.shields.io/website?label=marcvila.me&style=flat-square&url=http%3A%2F%2Fmarcvila.me%2F)](https://www.marcvila.me)
 
-I am **{{ site.author.name }}**,<br>
-A Software Engineer based in Barcelona. PhD 'cum laude' + MSc + BSc in Computer Science.<br>
+I am **{{ site.author.name }}**, a software engineer and technical leader based in Barcelona.
+PhD <i>cum laude</i> in Computer Science, with a background spanning research, product development and team leadership.
 <br>
-🌎 Software Engineer & Team Leader at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>.<br>
-🎓 Ph.D. in Computer Science 'cum laude' from the <a href='https://www.upc.edu' target='_blank'>Universitat Politècnica de Catalunya</a>,
-with International mention and Industrial mention.
-You can read more about my research <a href='/research/' target='_blank'>here</a>: `Monitoring physical infrastructures using Internet of Things devices, Semantics and Microservices Architectures`.<br>
-🏢 Founder of <a href='/projects/1-tdtchannels' target='_blank'> TDTChannels</a>, an online platform to watch television and listen the radio, for free!<br>
-💻 On my spare time, I am co-leading <a href='/projects/3-ruedoenelectrica' target='_blank'> Ruedoeneléctrica</a> and <a href='/projects/2-catalunya-meteo' target='_blank'> CatalunyaMeteo</a>. <br>
 <br>
-📫 If you are interested in working with me or anything similar, feel free to get in touch.
+🌎 Lead Software Engineer & Team Leader at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>.<br>
+🎓 <a href='/research/' target='_blank'>PhD</a> in Computer Science (cum laude) (@<a href='https://www.upc.edu' target='_blank'>UPC</a>), with international and industrial mention.<br>
+🏢 Founder of <a href='/projects/1-tdtchannels' target='_blank'> TDTChannels</a>.<br>
+💻 On my spare time, I am co-leading <a href='/projects/3-ruedoenelectrica' target='_blank'> Ruedoeneléctrica</a> and some other side projects. <br>
+<br>
+📫 If you are interested in working with me, feel free to get in touch.
 <br>
 <br>
 🏃 Running + 🚴 Cycling + ⚽ Futsal + ⛅ Meteo.<br>
-🐢 _Trachemys scripta elegans_ + 🐢 _Trachemys scripta scripta_.<br>
-🦜 _Nymphicus hollandicus (normal-grey)_ + 🦜 _Nymphicus hollandicus (albino)_.
+🐢 _Trachemys scripta (elegans & scripta)_ + 🦜 _Nymphicus hollandicus (normal-grey & albino)_.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Hands-On Tech Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 Other languages: Java, Javascript, C++, C, SQL, HTML, XML, CSS, ...
@@ -42,6 +40,16 @@ Other technologies / frameworks: Flask, Nginx, InfluxDB, NodeJS, Keycloak...
 Other databases: Postgres as main relational SQL; MongoDB as NoSQL and as well InfluxDB.
 <br>
 Other tools: Firebase, Grafana, OpenSearch, ArgoCD, SonarCloud, QATouch, ...
+
+<h3>Independent Projects</h3>
+
+<p>
+    <b>TDTChannels</b> – Founder and lead developer of an open platform to watch television and listen to radio online.
+    Designed, built and maintained the full platform, including data ingestion, APIs and Android applications,
+    serving a large user base in production (<a href="https://www.tdtchannels.com" target="_blank">tdtchannels.com</a>).
+</p>
+
+More information about projects <a href="/projects">here</a>.
 
 # **Work Experience**
 

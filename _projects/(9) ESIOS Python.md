@@ -1,7 +1,7 @@
 ---
 name: ESIOS - Red Eléctrica de España
-tools: [Python]
+tools: [Data, API, Python]
 image:
-description: A Python example to access the ESIOS API. A tool to check the current price of light in Spain.
+description: Python utility to access the ESIOS API and retrieve real-time electricity prices in Spain.
 external_url: https://github.com/LaQuay/ESIOS
 ---

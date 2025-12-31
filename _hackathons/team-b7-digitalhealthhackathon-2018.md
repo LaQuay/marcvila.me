@@ -1,10 +1,12 @@
 ---
 name: Team B7
 subtitle: Digital Health Hackathon 2018 - Spain
-tools: [1st Place Global, Python, Machine Learning]
+award: "1st Place Global"
+award_icon: "🥇"
+tools: [Python, Machine Learning]
 image: /assets/img/hackathons/digitalhealthhackathon_2018/featured.jpg
 description:
-  Develop a Machine Learning algorithm to predict which patients with neutropenia are most likely to develop multi-drug resistant bacteremia.
+  A Machine Learning algorithm to predict which patients with neutropenia are most likely to develop multi-drug resistant bacteremia.
 order_number: 14
 ---
 

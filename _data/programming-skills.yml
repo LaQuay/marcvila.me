@@ -13,7 +13,7 @@
   showPercentage: false
   color: info
 
-- name: Android (in Java)
+- name: Android
   percentage: 100
   showPercentage: false
   color: warning

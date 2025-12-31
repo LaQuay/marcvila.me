@@ -2,53 +2,64 @@
 name: Open Source Contributions
 tools: [Open Source]
 image:
-description: Brief list of Open Source contributions I have done.
+description: Selected open source contributions, mainly focused on improving documentation and developer experience.
 ---
 
-I use this space as a notebook of where I have contributed. I usually improve documentation, intending to make them clearer to readers. This notebook also serves to make visible what projects I have been working on.
+I regularly contribute to open source projects by improving documentation and clarifying usage,
+configuration, or architectural details. These contributions are usually driven by real-world
+usage, where missing or unclear documentation becomes a friction point.
 
-### 2021
+Rather than focusing on feature development, my contributions aim to improve **developer
+experience**, onboarding, and long-term maintainability of existing projects.
 
-#### November - React Flow - Improve documentation
+---
 
-<q>A customizable React component for building interactive graphs and node-based editors.</q>
+### React Flow (2021)
 
-<a href="https://github.com/wbkd/react-flow/pull/2549" target="_blank">https://github.com/wbkd/react-flow/pull/2549</a>
+**Documentation improvements** to clarify usage patterns and configuration options for a
+customizable React component used to build interactive graphs and node-based editors.
 
-### 2020
+- <a href="https://github.com/wbkd/react-flow/pull/2549" target="_blank">Pull request</a>
 
-#### December - home-assistant.io - Improve documentation
+---
 
-<q>ThingsBoard allows you to create rich IoT Dashboards for data visualization and remote device control in real-time.</q>
+### Home Assistant Documentation (2020)
 
-<a href="https://github.com/home-assistant/home-assistant.io/pull/15851" target="_blank">https://github.com/home-assistant/home-assistant.io/pull/15851</a>
+**Documentation improvements** to the official Home Assistant website, focusing on clarity and
+consistency for integrations and platform usage.
 
-#### August - thingsboard.github.io - Improve documentation
+- <a href="https://github.com/home-assistant/home-assistant.io/pull/15851" target="_blank">Pull request</a>
 
-<q>ThingsBoard allows you to create rich IoT Dashboards for data visualization and remote device control in real-time.</q>
+---
 
-<a href="https://github.com/thingsboard/thingsboard.github.io/pull/407" target="_blank">https://github.com/thingsboard/thingsboard.github.io/pull/407</a>
+### ThingsBoard Documentation (2020)
 
-#### April - vimagick / dockerfiles - Improve documentation
+**Documentation improvements** for an open-source IoT platform, clarifying dashboard configuration
+and usage details.
 
-Improve the documentation for deploying a NodeRed in Docker.
+- <a href="https://github.com/thingsboard/thingsboard.github.io/pull/407" target="_blank">Pull request</a>
 
-<a href="https://github.com/vimagick/dockerfiles/pull/132" target="_blank">https://github.com/vimagick/dockerfiles/pull/132</a>
+---
 
-### 2019
+### Dockerfiles – Node-RED (2019)
+Improved documentation for deploying **Node-RED** using Docker, focusing on configuration and
+practical deployment details.
 
-#### February - eventsource-android - Improve documentation
+- <a href="https://github.com/vimagick/dockerfiles/pull/132" target="_blank">Pull request</a>
 
-<q>An Android EventSource (SSE - Server Sent Events) Library</q>
+---
 
-<a href="https://github.com/tylerjroach/eventsource-android/pull/17" target="_blank">https://github.com/tylerjroach/eventsource-android/pull/17</a>
+### eventsource-android (2019)
+Documentation improvements for an Android **Server-Sent Events (SSE)** client library, helping
+clarify integration and usage patterns.
 
-### 2018
+- <a href="https://github.com/tylerjroach/eventsource-android/pull/17" target="_blank">Pull request</a>
 
-#### November - eve-sqlalchemy - Improve documentation
+---
 
-<q>Powered by Eve, SQLAlchemy and good intentions this extension allows to effortlessly build and
-deploy highly customizable, fully featured RESTful Web Services with SQL-based backends.</q>
+### eve-sqlalchemy (2018)
+Multiple documentation improvements for an extension combining **Eve**, **SQLAlchemy**, and RESTful
+API development, clarifying setup and configuration details.
 
-<a href="https://github.com/pyeve/eve-sqlalchemy/pull/187" target="_blank">https://github.com/pyeve/eve-sqlalchemy/pull/187</a><br/>
-<a href="https://github.com/pyeve/eve-sqlalchemy/pull/189" target="_blank">https://github.com/pyeve/eve-sqlalchemy/pull/189</a>
+- <a href="https://github.com/pyeve/eve-sqlalchemy/pull/187" target="_blank">Pull request</a>  
+- <a href="https://github.com/pyeve/eve-sqlalchemy/pull/189" target="_blank">Pull request</a>

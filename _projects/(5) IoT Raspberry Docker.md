@@ -1,7 +1,7 @@
 ---
-name: IoT Data through GPIO, using Docker in a Raspberry Pi
-tools: [IoT, Raspberry Pi, Docker, Python]
+name: IoT Data Collection via Docker and Raspberry Pi GPIO
+tools: [IoT, Data, Docker, Raspberry Pi]
 image: https://raw.githubusercontent.com/LaQuay/IoT_Raspberry_Docker_GPIO/master/img/esquematic_1.png
-description: From a Raspberry Pi 3, push data to the cloud, from GPIO sensors connected to the Raspberry. Code is running in microservices, Docker. Also using Google Firebase Realtime Database as storage.
+description: PoC using a Raspberry Pi to collect data from GPIO sensors and push it to the cloud through Dockerized microservices, with Firebase Realtime Database as the storage layer.
 external_url: https://github.com/LaQuay/IoT_Raspberry_Docker_GPIO
 ---

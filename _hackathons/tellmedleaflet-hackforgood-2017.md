@@ -1,7 +1,9 @@
 ---
 name: TellMedLeaflet
 subtitle: HackForGood 2017 - Spain
-tools: [1st Place Global, Android, Express.js, OCR]
+award: "1st Place Global"
+award_icon: "🥇"
+tools: [Android, Express.js, OCR]
 image: /assets/img/hackathons/hackforgood_2017/featured.png
 description: Scan a medical leaflet and the application will speak out loud for you.
 order_number: 3

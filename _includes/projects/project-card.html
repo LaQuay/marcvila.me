@@ -1,9 +1,16 @@
-<div class="col-lg-4 my-3 wow animated fadeIn" data-wow-delay=".15s">
+<div class="{{ project_col | default: 'col-lg-4' }} my-3 wow animated fadeIn" data-wow-delay=".15s">
   <a href="{{ project_url }}" class="project card text-dark" {%- if external and site.open_new_tab -%} target="_blank" {%- endif -%}>
     {%- if project_img -%}
     <img id="{{ project_id }}-img" class="card-img-top" src="{{ project_img }}" alt="{{ project_name }}" />
     {%- endif -%}
     <div class="card-body">
+      {%- if project.featured -%}
+        <span class="project-badge project-badge-featured">Featured</span>
+      {%- endif -%}
+
+      {%- if project.status -%}
+        <span class="project-badge project-badge-status">{{ project.status | capitalize }}</span>
+      {%- endif -%}
       <h5 id="{{ project_id }}-name" class="card-title">
           {%- if project_type == "remote" -%}
           <i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;

@@ -1,7 +1,9 @@
 ---
 name: Save&Sound
 subtitle: HackatH2On 2017 - Spain
-tools: [2nd Place Global, Android, Spotify]
+award: "2nd Place Global"
+award_icon: "🥈"
+tools: [Android, Spotify]
 image: /assets/img/hackathons/hackath2on_2017/featured.jpg
 description: Measure the consumption of water from the shower linked with a music feature such as Spotify.
 order_number: 6

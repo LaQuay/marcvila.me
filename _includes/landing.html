@@ -1,20 +1,53 @@
-<div class="row justify-content-center align-items-center p-4">
-  <div class="col-lg-4 col-md-6 col-sm-9 col-10 text-center mt-2">
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        <img
-          src="{{ site.author.image }}"
-          alt="{{ site.title }}"
-          class="circle-image wow animated zoomIn"
-          data-wow-delay=".10s"
-        />
+<div class="container py-4 py-md-5">
+  <div class="row align-items-center justify-content-center">
+    <div class="col-12 col-md-auto text-center">
+      <div class="profile-pic">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image" />
+        <p class="photo-greeting">Hola!</p>
       </div>
     </div>
 
-    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">
-      {{ site.description }}
-    </p>
+    <div class="col-12 col-md-7 text-center">
+      <h1 class="hero-title mb-2">Marc Vila Gómez</h1>
+
+      <p class="hero-subtitle text-center mb-4">
+        <strong>Lead Software Engineer & Team Lead</strong> at
+        <a href="https://www.worldsensing.com/" target="_blank">Worldsensing</a> ·
+        Founder of <a href="https://www.tdtchannels.com/" target="_blank">TDTChannels</a> ·
+        Industrial <strong>PhD in Computer Science</strong> (<a href='https://www.upc.edu' target='_blank'>UPC</a>)
+      </p>
+
+      <input type="radio" name="lang" id="lang-en" checked hidden>
+      <input type="radio" name="lang" id="lang-es" hidden>
+      <input type="radio" name="lang" id="lang-ca" hidden>
+
+      <div class="hero-description">
+        <p class="lang lang-en text-muted">
+          I design and build cloud-native platforms used in production, combining hands-on
+          engineering with technical and team leadership. Based in Barcelona.
+        </p>
+        <p class="lang lang-es text-muted">
+          Diseño y desarrollo plataformas cloud-native en producción, combinando desarrollo
+          técnico con liderazgo técnico y de equipo. Basado en Barcelona. 
+        </p>
+        <p class="lang lang-ca text-muted">
+          Dissenyo i desenvolupo plataformes cloud-native en producció, combinant
+          desenvolupament tècnic amb lideratge tècnic i d’equip. Soc a Barcelona. 
+        </p>
+      </div>
+
+      <div class="lang-switch mt-1">
+        <label for="lang-en">View in English</label> ·
+        <label for="lang-es">Ver en español</label> ·
+        <label for="lang-ca">Veure en català</label>
+      </div>
+
+      <div class="hero-chips mt-4">
+        <span class="badge rounded-pill text-bg-light">Backend & System Design</span>
+        <span class="badge rounded-pill text-bg-light">Cloud Platforms</span>
+        <span class="badge rounded-pill text-bg-light">Data & IoT</span>
+        <span class="badge rounded-pill text-bg-light">Technical Leadership</span>
+      </div>
+    </div>
   </div>
 </div>

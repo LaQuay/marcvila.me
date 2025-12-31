@@ -1,7 +1,9 @@
 ---
 name: Team 10 'Koalas'
 subtitle: Railmapchallenge Hackathon 2018 - Spain
-tools: [2nd Place Global, Python, Android, Docker, Mapbox, GTFS]
+award: "2nd Place Global"
+award_icon: "🥈"
+tools: [Python, Android, Docker, Mapbox, GTFS]
 image: /assets/img/hackathons/railmapchallenge_2018/featured.png
 description:
   Web-app for conmuting, public transportation delays and alternatives.

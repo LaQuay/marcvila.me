@@ -1,7 +1,9 @@
 ---
 name: SmartGNSS
 subtitle: Raw Gallileo Hackathon 2020 - Virtual
-tools: [2nd Place in Challenge, Android, React, Python, Docker, GNSS]
+award: "2nd Place Challenge"
+award_icon: "🥈"
+tools: [Android, React, Python, Docker, GNSS]
 image: /assets/img/hackathons/rawgallileo_2020/featured.png
 description:
   Counts on the Gallileo GNSS user info to generate truthfulness score regarding users’ location. Offers API endpoints for validity.

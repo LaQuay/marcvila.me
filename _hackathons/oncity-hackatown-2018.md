@@ -1,10 +1,12 @@
 ---
 name: On City
 subtitle: HackaTown 2018 - Spain
-tools: [1st Place Global, Android, Google Cloud, Open Data]
+award: "1st Place Global"
+award_icon: "🥇"
+tools: [Android, Google Cloud, Open Data]
 image: /assets/img/hackathons/hackatown_2018/featured.png
 description:
-  Android app that shows information related to EV stations, guides, offers, and more!
+  An app that shows information related to EV stations, guides, offers, and more!
 order_number: 17
 ---
 

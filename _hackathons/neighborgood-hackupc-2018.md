@@ -1,7 +1,9 @@
 ---
 name: Neighborgood
 subtitle: HackUPC 2018 - Spain
-tools: [1st Place in 2 Challenges, React, Serverless, DynamoDB, Lambda]
+award: "1st Place 2 Challenges"
+award_icon: "🥇"
+tools: [React, Serverless, DynamoDB, Lambda]
 image: /assets/img/hackathons/hackupc_2018/featured.png
 description:
    Web-app that compares the different neighborhoods of Barcelona based on different criteria (environment, economic, population, security).

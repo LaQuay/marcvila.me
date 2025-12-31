@@ -1,10 +1,12 @@
 ---
 name: Lazarus
 subtitle: HackUPC Fall 2017 - Spain
-tools: [1st Place in Challenge, Android, Machine Learning, IBM Watson, OCR, Google Maps]
+award: "1st Place Challenge"
+award_icon: "🥇"
+tools: [Android, Machine Learning, IBM Watson, OCR, Google Maps]
 image: /assets/img/hackathons/hackupc_2017_f/featured.png
 description:
-  Android app that helps blind or visually impaired people to move around the city.
+  App that helps blind or visually impaired people to move around the city.
   Perform simple day-to-day tasks using only basic tools such as geolocation, voice
   recognition or the camera.
 order_number: 8

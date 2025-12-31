@@ -1,7 +1,7 @@
 ---
 name: Thingsboard Android
-tools: [Android, Thingsboard]
+tools: [Android, IoT]
 image:
-description: Educational example. Simple Android App that checks Authentication and Get Sensors from Thingsboard.
+description: Educational Android example demonstrating authentication and sensor data retrieval from a ThingsBoard IoT platform.
 external_url: https://github.com/LaQuay/thingsboard-android
 ---

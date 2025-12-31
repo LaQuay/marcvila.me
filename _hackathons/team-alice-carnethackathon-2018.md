@@ -1,7 +1,9 @@
 ---
 name: Team Alice
 subtitle: Carnet Hackathon 2018 - Spain
-tools: [1st Place Global and in Challenge, Arduino, Android, Google Voice]
+award: "1st Place Global and Challenge"
+award_icon: "🥇"
+tools: [Arduino, Android, Google Voice]
 image: /assets/img/hackathons/carnethackathon_2018/featured.jpg
 description:
   Smart blind cane and a mobile application, guides them while walking around the city.

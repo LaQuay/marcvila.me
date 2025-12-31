@@ -5,6 +5,8 @@ This project is using [portfolYOU](https://github.com/YoussefRaafatNasry/portfol
 # Setup
 [Ruby](https://gorails.com/setup/ubuntu/22.04) is a requirement, this repo has been tested in Ruby 3.2.1
 
+NOTE: In Windows, when installing Ruby, use the default settings to install dependencies.
+
 Install the jekyll and bundler gems: 
 
 `gem install jekyll bundler`

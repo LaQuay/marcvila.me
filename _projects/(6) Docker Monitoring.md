@@ -1,7 +1,7 @@
 ---
 name: Docker Monitoring Sandbox
-tools: [Docker, InfluxDB, Chronograph]
+tools: [Backend, Docker, Monitoring]
 image: https://github.com/LaQuay/docker-monitoring-sandbox/raw/master/docs/tick_docker.png
-description: Monitor your server with the TICK Stack from InfluxData. Open source components which makes collection, storage, graphing, alerting, metrics and events easy.
+description: Monitoring sandbox based on the TICK stack, using Docker to collect, store, visualize, and alert on server metrics and events.
 external_url: https://github.com/LaQuay/docker-monitoring-sandbox
 ---

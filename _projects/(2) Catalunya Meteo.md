@@ -1,41 +1,24 @@
 ---
 name: Catalunya Meteo
-tools: [Application, Android]
+tools: [Android, Application, Data]
 image: https://pbs.twimg.com/profile_banners/2427158394/1409224659/1500x500
-description: Forecast, real time data, and meteorological info about Catalonia, Spain, in your Android device!
+description: Android weather application focused on real-time data and forecasts for Catalonia.
+featured: true
+status: archived
 ---
 
-Catalunya Meteo is an Android application that offers real-time weather, weather radar, 7-day
-weather forecast, Pyrenees forecast, ski slope forecast, temperature maps, rain, lightning... And
-also a Twitter channel to find out the latest news. And it also offers webcams from many places in
-Catalonia!
+**Catalunya Meteo** was an Android application focused on providing real-time meteorological data
+and weather forecasts for Catalonia, including radar, lightning activity, temperature maps, and
+mountain-specific forecasts.
 
-Started in 2016, with a college classmate, <a href="https://es.linkedin.com/in/alejandrorosasdev"
-target="_blank">Alejandro Rosas</a>, is an application that is still being developed and maintained
-by us.
+The project started in 2016 as a collaboration with
+<a href="https://es.linkedin.com/in/alejandrorosasdev" target="_blank">Alejandro Rosas</a>, and served
+as an early exploration of mobile development, data aggregation, and external API integration.
 
-<div style="text-align: center;">
-<img style="margin: 0 !important; float: left" src="http://www.roviapps.com/wp-content/uploads/2017/10/00_0_home-1.png" width="280"/>
-<img style="margin: 0 !important; display: inline" src="http://www.roviapps.com/wp-content/uploads/2017/10/00_2_home_semanal-1.png" width="280"/>
-<img style="margin: 0 !important; float: right" src="http://www.roviapps.com/wp-content/uploads/2017/10/01_radar-1.png" width="280"/>
-</div>
+From a technical perspective, the application relied on a lightweight backend layer with caching to
+aggregate and normalize data from multiple public meteorological sources (such as AEMET, Meteocat,
+and Meteoclimatic), reducing network usage and improving response times on mobile devices.
 
-## Backend
-
-The project has a backend consisting of a cache to avoid high number of data usage. The data is
-gathered from: <br>
-
-- <a href="http://www.aemet.es" target="_blank">AEMET - Agencia Estatal de Meteorología</a>
-  <br>
-- <a href="https://es.meteocat.gencat.cat" target="_blank">Meteocat - Servei Meteorològic de Catalunya</a>
-  <br>
-- <a href="https://www.meteoclimatic.net" target="_blank">Meteoclimatic</a>
-  <br>
-
-## Android Application
-
-The application is free to use and available at the link below.
-
-<p class="text-center">
-{% include elements/button.html link="http://www.roviapps.com/" text="Learn More" %}
-</p>
+The project is no longer actively maintained and was discontinued in late 2024. It is presented
+here as an **archived project**, representing early hands-on experience with Android development,
+data-driven applications, and backend-supported mobile architectures.

@@ -1,4 +1,4 @@
-<div class="card-group mt-3">
+<div class="row mt-3">
 
   <!-- Remote Projects -->
   {% for remote_project in page.remote_projects %}
@@ -27,8 +27,9 @@
     {%- endfor -%}
   {% endfor %}
 
-  <!-- Local Projects -->
-  {% for project in site.projects %}
+  <!-- Featured Local Projects -->
+  {% assign featured_projects = site.projects | where: "featured", true %}
+  {% for project in featured_projects %}
 
     {%- assign project_type  = "local" -%}
     {%- assign project_id    = project.name | slugify -%}
@@ -36,6 +37,8 @@
     {%- assign project_name  = project.name -%}
     {%- assign project_desc  = project.description -%}
     {%- assign project_tools = project.tools -%}
+    {%- assign project_featured = project.featured -%}
+    {%- assign project_status   = project.status -%}
 
     {%- if project.external_url -%}
       {%- assign project_url = project.external_url -%}
@@ -45,8 +48,32 @@
       {%- assign external = false -%}
     {%- endif -%}
 
+    {%- assign project_col = "col-lg-6" -%}
     {% include projects/project-card.html %}
-
   {% endfor %}
 
+  <!-- Other Local Projects -->
+  {% assign other_projects = site.projects | where_exp: "p", "p.featured != true" %}
+  {% for project in other_projects %}
+
+    {%- assign project_type  = "local" -%}
+    {%- assign project_id    = project.name | slugify -%}
+    {%- assign project_img   = project.image -%}
+    {%- assign project_name  = project.name -%}
+    {%- assign project_desc  = project.description -%}
+    {%- assign project_tools = project.tools -%}
+    {%- assign project_featured = project.featured -%}
+    {%- assign project_status   = project.status -%}
+
+    {%- if project.external_url -%}
+      {%- assign project_url = project.external_url -%}
+      {%- assign external = true -%}
+    {%- else -%}
+      {%- assign project_url = project.url | relative_url -%}
+      {%- assign external = false -%}
+    {%- endif -%}
+
+    {%- assign project_col = "col-lg-4" -%}
+    {% include projects/project-card.html %}
+  {% endfor %}
 </div>

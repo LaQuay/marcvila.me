@@ -1,20 +1,34 @@
-<div class="col-lg-4 my-3 wow animated fadeIn" data-wow-delay=".15s">
+<div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 wow animated fadeIn" data-wow-delay=".15s">
   <a href="{{ project_url }}" class="project card text-dark">
     {%- if project_img -%}
     <img id="{{ project_id }}-img" class="card-img-top" src="{{ project_img }}" alt="{{ project_name }}" />
     {%- endif -%}
     <div class="card-body">
-      <h5 id="{{ project_id }}-name" class="card-title">
+      {%- if project.award -%}
+        <div class="mb-2">
+          <span class="badge badge-pill badge-primary">
+            {%- if project.award_icon -%}{{ project.award_icon }} {%- endif -%}{{ project.award }}
+          </span>
+        </div>
+      {%- endif -%}
+      <h5 id="{{ project_id }}-name" class="card-title mb-2">
           {{ project_name }}
       </h5>
-      <p class="card-subtitle">
+      <p class="card-subtitle text-muted small mb-2">
         {{ project_subtitle }}
       </p>
-      <p id="{{ project_id }}-desc" class="card-text">{{ project_desc }}</p>
-      <p id="{{ project_id }}-tools" class="card-text">
-        {%- for tool in project_tools -%}
-        <span class="badge badge-pill text-primary border border-primary ml-1">{{ tool }}</span>
+      <p id="{{ project_id }}-desc" class="card-text">{{ project_desc | truncate: 90 }}</p>
+      {%- assign max_tools = 3 -%}
+      {%- assign tools_count = project_tools | size -%}
+
+      <p id="{{ project_id }}-tools" class="card-text mb-0">
+        {%- for tool in project_tools limit: max_tools -%}
+          <span class="badge badge-pill badge-light border ml-1">{{ tool }}</span>
         {%- endfor -%}
+
+        {%- if tools_count > max_tools -%}
+          <span class="badge badge-pill badge-light border ml-1">+{{ tools_count | minus: max_tools }}</span>
+        {%- endif -%}
       </p>
     </div>
   </a>
