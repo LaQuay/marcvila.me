@@ -3,7 +3,7 @@
   showPercentage: false
   color: dark
 
-- name: Cloud & Platform (Google Cloud, AWS)
+- name: Cloud Platforms (Google Cloud, AWS)
   percentage: 100
   showPercentage: false
   color: dark
