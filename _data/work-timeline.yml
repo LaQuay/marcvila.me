@@ -5,12 +5,12 @@
   location: Barcelona, Spain
   description: >
     <b>Lead Software Engineer & Team Leader</b> | <i>January 2022 - Present</i><br>
-    I lead and manage a full-stack software engineering team of nine members, owning the technical direction and delivery of the company’s core cloud product.
+    Led a full-stack software team of 7 developers and 2 QA in an Agile environment, driving delivery, quality, and team growth.
     Expanded the team from <b>3 developers to 7 engineers and 2 QA</b>, establishing technical standards, mentoring practices and scalable development processes.
     As a hands-on engineer, I contribute mainly on backend and frontend development, with a strong focus on system architecture and cloud-native design.
     I have led multiple strategic projects (e.g. AMICOS, Int5Gent), driving them to on-time delivery with strong technical and business outcomes.
     <br><br>
-    Tech stack: Python (FastAPI, Flask), Java, React (TypeScript), PostgreSQL, MongoDB, Redis.  
+    Tech stack: Python (FastAPI, Flask), Java, Docker, React (TypeScript), PostgreSQL, MongoDB, Redis, RabbitMQ.  
     Architecture: Cloud-native microservices on Google Cloud Platform, with monitoring and CI/CD pipelines.
     <br><br>
     <b>Software Engineer</b> | <i>June 2018 - January 2022</i><br>
@@ -18,7 +18,7 @@
     Contributed to cloud-based, microservices-oriented systems, participating in architectural decisions and end-to-end feature delivery. Contributed to early 
     architectural decisions and end‑to‑end delivery of European research and industrial projects (SENIX, Activ4.0, STOP‑IT, CIPSEC, 5GCroCo).
     <br><br>
-    Tech stack: Python (Flask), Java, React, SQL and NoSQL databases, InfluxDB, Android.  
+    Tech stack: Python (Flask), Docker, Java, React, PostgreSQL, InfluxDB, Android.  
     Tools & platforms: Docker, Jenkins, Grafana, Telegraf, Google Cloud Platform.
 
 - title: Senior Backend Engineer / Technical Consultant
@@ -31,7 +31,6 @@
     foundations, enabling early customer use cases.
     <br>
     Tech stack: Python (FastAPI), Docker, Nginx
-
 
 - title: Associate Professor
   from: March 2018

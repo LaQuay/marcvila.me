@@ -1,9 +1,9 @@
-- name: Software Backend & System Design
+- name: Backend & Distributed Systems
   percentage: 100
   showPercentage: false
   color: dark
 
-- name: Cloud Platforms (Google Cloud, AWS)
+- name: Cloud & SaaS Platforms (GCP, AWS)
   percentage: 100
   showPercentage: false
   color: dark

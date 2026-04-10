@@ -1,0 +1,27 @@
+- title: Founder & Lead Developer
+  from: 2018
+  to: Present
+  company: TDTChannels
+  description: >
+    Product platform <b>serving 75,000+ daily users</b>, providing access to Spanish TV and radio channels.
+    <ul>
+      <li>
+        Designed, built, and maintained the platform end‑to‑end.
+      </li>
+      <li>
+        Developed backend services in Python and Supabase; frontend in React and Hugo; native Android application.
+      </li>
+      <li>
+        Featured in major Spanish media including Xataka, El Español, Cinco Días, El Confidencial, Computer Hoy, and ADSLZone.
+      </li>
+      <li> 
+        Awarded “Menció Fiber Emprenedor” 2024 for entrepreneurial initiative.
+      </li>
+    </ul>
+
+- title: Co-Founder & Android Developer
+  from: 2014
+  to: 2022
+  company: CatalunyaMeteo
+  description: >
+    Mobile app delivering real‑time weather information for Catalonia by aggregating multiple trusted data sources.
