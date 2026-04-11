@@ -4,22 +4,22 @@
   company: Worldsensing
   location: Barcelona, Spain
   description: >
-    <b>Lead Software Engineer & Team Leader</b> | <i>January 2022 - Present</i><br>
-    Led a full-stack software team of 7 developers and 2 QA in an Agile environment, driving delivery, quality, and team growth.
-    Expanded the team from <b>3 developers to 7 engineers and 2 QA</b>, establishing technical standards, mentoring practices and scalable development processes.
-    As a hands-on engineer, I contribute mainly on backend and frontend development, with a strong focus on system architecture and cloud-native design.
-    I have led multiple strategic projects (e.g. AMICOS, Int5Gent), driving them to on-time delivery with strong technical and business outcomes.
-    <br><br>
-    Tech stack: Python (FastAPI, Flask), Java, Docker, React (TypeScript), PostgreSQL, MongoDB, Redis, RabbitMQ.  
-    Architecture: Cloud-native microservices on Google Cloud Platform, with monitoring and CI/CD pipelines.
+    <i>January 2022 - Present</i><br>
+    <b>Leading a cross-functional team</b> (7 engineers, 2 QA), driving delivery, quality, and team growth.
+
+    <b>Designed and delivered</b> cloud-native platforms based on microservices and event-driven architectures, used in production.
+
+    Hands-on contribution across backend systems, APIs, and system architecture, with a strong focus on scalability and maintainability.
+
+    Scaled the team from 3 to 7 engineers, establishing technical standards and mentoring practices.
+    <br>
+    Tech stack: Python (FastAPI, Flask), Java, Docker, React (TypeScript), PostgreSQL, MongoDB, Redis, RabbitMQ, GCP.  
     <br><br>
     <b>Software Engineer</b> | <i>June 2018 - January 2022</i><br>
-    Defined, designed and implemented software solutions within the Innovation department, working across backend, frontend and Android development.
-    Contributed to cloud-based, microservices-oriented systems, participating in architectural decisions and end-to-end feature delivery. Contributed to early 
-    architectural decisions and end‑to‑end delivery of European research and industrial projects (SENIX, Activ4.0, STOP‑IT, CIPSEC, 5GCroCo).
-    <br><br>
-    Tech stack: Python (Flask), Docker, Java, React, PostgreSQL, InfluxDB, Android.  
-    Tools & platforms: Docker, Jenkins, Grafana, Telegraf, Google Cloud Platform.
+    Designed and implemented <b>full-stack solutions</b> across backend, frontend, and Android.
+    Contributed to <b>cloud-based microservices</b> systems and end-to-end delivery of research and industrial projects (SENIX, STOP-IT, 5GCroCo).
+    <br>
+    Tech stack: Python (Flask), Docker, Java, React, PostgreSQL, InfluxDB, Android, GCP.
 
 - title: Senior Backend Engineer / Technical Consultant
   from: March 2023
@@ -27,8 +27,7 @@
   company: QALEA Cybersecurity
   location: Barcelona, Spain [Freelance]
   description: >
-    Designed and implemented the initial architecture of the platform, defining core architectural decisions and technical
-    foundations, enabling early customer use cases.
+    <b>Designed and built</b> the first functional version of the platform, defining core architectural decisions and technical foundations, enabling early customer use cases.
     <br>
     Tech stack: Python (FastAPI), Docker, Nginx
 
@@ -38,8 +37,7 @@
   company: UPC School
   location: Barcelona, Spain [Contract]
   description: >
-    Taught Android in Java in the <a href="https://www.talent.upc.edu/ing/professionals/presentacio/codi/200100/internet-iot/" target="_blank">Master's Degree in Internet of Things (IoT)</a>. 
-    First steps for non-Android-developers, how Android works, data exploitation through APIs, and data visualization. Combining these elements with an IoT ecosystem.
+    Taught Android development, APIs, and data visualization in the Master's Degree in Internet of Things (IoT), focusing on practical use cases for non-Android developers.
 
 - title: Associate Professor
   from: December 2019
@@ -47,8 +45,7 @@
   company: CIFO Hospitalet
   location: Hospitalet de Llobregat, Spain [Contract]
   description: >
-    Taught Android in Java in the 'Pla: Tècnic/a eines i tecnologies de xarxa mòbils en 5G, from the Generalitat de Catalunya'. 
-    First steps for non-Android-developers, how Android works, data exploitation through APIs, and data visualization. Combining these elements with an IoT ecosystem.
+    Delivered training on Android development, APIs, and data visualization within a 5G mobile technologies program.
 
 - title: Software Developer
   from: September 2014
@@ -56,23 +53,22 @@
   company: InLab FIB UPC
   location: Barcelona, Spain [Internship]
   description: >
-    Contributed to backend, frontend and mobile projects for industrial clients and startups. Selected projects include:
+    Contributed to backend, frontend and mobile projects for industrial clients and startups:
     <br>
     <ul>
       <li>
-        <b>SEAT Parkfinder</b> – Android application for SEAT Connected Car, developed within the iCity Smart Cities project.
-        Integrated vehicle infotainment systems (MirrorLink) and multiple urban data APIs.
+        <b>SEAT Parkfinder</b> – Android app for SEAT Connected Car, combining MirrorLink and urban data APIs (iCity Smart Cities)
         (<a href="https://inlab.fib.upc.edu/es/projecte/parkfinder/" target="_blank">InLab</a>,
       <a href="https://www.lavanguardia.com/ocio/20151121/30305085094/seat-aparcamiento-encontrar-ciudad-parkfinder-aplicacion-dificultades-app-icity.html" target="_blank">La Vanguardia</a>,
       <a href="https://www.lasexta.com/motor/estilo/la-app-parkfinder-mejor-innovacion-entre-las-122-presentadas-por-los-empleados-de-seat_201610175a9664690cf2586cf843c8b0.html" target="_blank">La Sexta</a>,
-      <a href="https://ajuntament.barcelona.cat/premsa/2014/11/12/barcelona-desplega-el-primer-smart-parquing-de-la-ciutat-als-carrers-del-districte-de-les-corts/" target="_blank">Ajuntament de Barcelona</a>, 
+      <a href="https://ajuntament.barcelona.cat/premsa/2014/11/12/barcelona-desplega-el-primer-smart-parquing-de-la-ciutat-als-carrers-del-districte-de-les-corts/" target="_blank">Aj. de Barcelona</a>, 
       <a href="https://www.repubblica.it/motori/sezioni/attualita/2015/12/28/news/cercare_parcheggio_e_un_gioco_con_parkfinder_di_seat-130042599/" target="_blank">La Repubblica (Italy)</a>)
       </li>
       <li>
         <b>IoT Healthcare</b> (Vitalera) – Early-stage full-stack development for a Catalan startup.
       </li>
       <li>
-        <b>SEAT HeartRate</b> – Android and Tizen wearable applications to collect and visualize biometric data.
+        <b>SEAT HeartRate</b> – Android and Tizen wearable apps to collect and visualize biometric data.
       </li>
     </ul>
     Tech stack: Django, Angular, Android, Tizen.
