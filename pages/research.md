@@ -5,35 +5,36 @@ permalink: /research/
 weight: 4
 ---
 
-# **Research**
+# Research
 
-<b>Read the Thesis online</b>: [IoT semantic-based monitoring of infrastructures using a microservices architecture](https://www.tdx.cat/handle/10803/693060).
-Author: Vila Gómez, Marc | Advised by: Sancho Samsó, María Ribera and Teniente López, Ernest.
+**PhD - Distributed Systems, IoT & Microservices**
+**Thesis** · Marc Vila Gómez (2024)
+[IoT semantic-based monitoring of infrastructures using a microservices architecture](https://www.tdx.cat/handle/10803/693060).
 
-<h2 class="mb-3">Research Topic</h2>
+I designed **scalable systems** to monitor physical infrastructures using **IoT data, semantics, and microservices architectures**.
 
-<b>In short: Monitoring physical infrastructures using Internet of Things devices, Semantics and
-Microservices Architectures.</b>
+## What this work is about
 
-The aim of the research, within the framework of an industrial doctorate, is to <b>cover from start
-to finish what can be accomplished based on a reading (or data) of an IoT sensor</b>. With these data, be able
-to <b>obtain the information</b> embedded in it, <b>monitor it</b>, and be able to <b>act if necessary</b>.
+This work started from a simple but challenging question: _how can we turn **raw IoT data** into **reliable, actionable systems at scale**?_
 
-Part of the work within this research has been to find a way to <b>generalise or homogenise or the
-data input</b> format from the sensors to the system, adding <b>semantics and ontologies</b> to it.
-To provide it with a <b>common data input format for the entire IoT ecosystem</b>, and to propose
-alternatives for the academic world in general.
+During my PhD, I focused on:
 
-In addition, research to deploy the whole environment under <b>microservices architecture</b>. It
-mainly contributes to having each functionality separated by different modules. In short, it means
-improved fault isolation, simplicity in understanding the system, technology flexibility, faster
-technical deployments, and more easily scalable.
+- Designing architectures that **bridge physical infrastructures and software systems**
+- Structuring heterogeneous IoT data using **semantics and ontologies**
+- Building **scalable systems** using **microservices architectures**
+- Enabling **real-time monitoring** and **decision-making**
 
-<i>Keywords: Internet of Things, Semantics, Cyber-Physical Systems, Microservices</i>
+The results of this work were published in **peer-reviewed journals (50+ citations)**, bridging academic research with real-world industrial applications.
 
-[Google Scholar](https://scholar.google.com/citations?user=dJvoBz8AAAAJ) - [DBLP](https://dblp.org/pid/320/5048-1.html) - [ORCID](https://orcid.org/0000-0002-5621-6543).
+### Research Stay
 
-# **Publications**
+Part of this work was carried out in collaboration with **international research groups**, including a research stay at **TU Wien** (Vienna University of Technology) under Prof. **Schahram Dustdar**, focusing on **edge-to-cloud** service orchestration and **context-aware distributed systems**.
+
+This experience expanded the work into **real-world distributed environments** and international collaboration.
+
+## Publications
+
+[Google Scholar](https://scholar.google.com/citations?user=dJvoBz8AAAAJ) - [DBLP](https://dblp.org/pid/320/5048-1.html) - [ORCID](https://orcid.org/0000-0002-5621-6543)
 
 - [PhD Thesis] [IoT semantic-based monitoring of infrastructures using a microservices architecture](https://www.tdx.cat/handle/10803/693060). M. Vila, M.-R. Sancho, E. Teniente (2024).
 

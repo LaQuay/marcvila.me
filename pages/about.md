@@ -12,15 +12,17 @@ weight: 5
 [![Gmail](https://img.shields.io/badge/Email-grey?logo=Gmail&style=flat-square&logoColor=white&color=grey)](mailto:hola@marcvila.me)
 [![Website](https://img.shields.io/website?label=marcvila.me&style=flat-square&url=http%3A%2F%2Fmarcvila.me%2F)](https://www.marcvila.me)
 
-**Lead Software Engineer & Team Leader** at <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>, delivering cloud-native platforms used in production.
+A **product-oriented software engineer** focused on building **scalable systems that power real-world products**.
 
-**Founder of <a href='/projects/1-tdtchannels' target='_blank'>TDTChannels</a>**, serving 75k+ users, built end-to-end.
+At <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>, I work as a **Lead Software Engineer and Team Lead**, contributing to **system design, technical decisions, and the delivery of cloud-native platforms used in production**. My role combines **hands-on engineering** with technical leadership and collaboration across teams.
 
-**<a href='/research/' target='_blank'>PhD</a> in Computer Science** (cum laude) (@<a href='https://www.upc.edu' target='_blank'>UPC</a>), focused on distributed systems and IoT.
+I am also the **founder of <a href='/projects/1-tdtchannels' target='_blank'>TDTChannels</a>**, a platform used daily by **more than 75,000 users** to watch TV and listen to radio online. Building and maintaining this product **end-to-end** has shaped the way I approach engineering, focusing on **reliability, performance, and real user impact** at scale.
+
+My background includes a **<a href='/research/' target='_blank'>PhD</a> in Computer Science** (cum laude), focused on distributed systems and IoT.
+
+I enjoy working on systems where **scalability, ownership, and real product impact** that matter.
 
 _Based in Barcelona · Running · Gym · Cycling · Futsal_
-<br><br>
-If you are interested in working with me, feel free to get in touch.
 
 <div class="row">
 {% include about/skills.html title="Core Skills" source=site.data.other-skills %}
