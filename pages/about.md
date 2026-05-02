@@ -18,9 +18,9 @@ At <a href='https://www.worldsensing.com/' target='_blank'>Worldsensing</a>, I w
 
 I am also the **founder of <a href='/projects/1-tdtchannels' target='_blank'>TDTChannels</a>**, a platform used daily by **more than 75,000 users** to watch TV and listen to radio online. Building and maintaining this product **end-to-end** has shaped the way I approach engineering, focusing on **reliability, performance, and real user impact** at scale.
 
-My background includes a **<a href='/research/' target='_blank'>PhD</a> in Computer Science** (cum laude), focused on distributed systems and IoT.
+My background includes a **<a href='/research/' target='_blank'>PhD</a> in Computer Science**, cum laude, focused on distributed systems and IoT.
 
-I enjoy working on systems where **scalability, ownership, and real product impact** that matter.
+I enjoy working on systems where **scalability, ownership, and real product impact** matter.
 
 _Based in Barcelona · Running · Gym · Cycling · Futsal_
 
@@ -28,10 +28,13 @@ _Based in Barcelona · Running · Gym · Cycling · Futsal_
 {% include about/skills.html title="Core Skills" source=site.data.other-skills %}
 {% include about/skills.html title="Core Tech" source=site.data.programming-skills %}
 </div>
-- Languages: Java, Javascript, Node.js, C++.
-- Technologies / frameworks: Flask, Nginx, InfluxDB, NodeJS, Keycloak.
+- Languages: Python, Java, JavaScript, TypeScript, Node.js, C++.
+- Backend: Python (FastAPI, Flask), REST APIs, microservices, event-driven architectures.
+- Frontend: React (TypeScript), Hugo.
 - Databases: PostgreSQL, MongoDB, Redis, InfluxDB.
-- Other tools: Grafana, OpenSearch, Keycloak, Firebase, ArgoCD, SonarCloud.
+- Platforms & tools: Docker, Nginx, GCP, Grafana, OpenSearch, Keycloak, Firebase, ArgoCD, SonarCloud.
+- IoT & automation: RabbitMQ, Node-RED, ThingsBoard, Home Assistant, LPWAN.
+- Technical leadership: mentoring, code reviews, architectural decisions.
 
 # **Work Experience**
 

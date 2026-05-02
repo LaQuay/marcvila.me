@@ -3,13 +3,16 @@
   to: Present
   company: TDTChannels
   description: >
-    Product platform <b>serving 75,000+ daily users</b>, providing access to Spanish TV and radio channels.
+    Consumer product platform <b>serving 75,000+ daily users</b>, providing access to Spanish TV and radio channels. Founded and
+    scaled the platform from a side project into a real‑world consumer product, owning product strategy, UX decisions, backend,
+    web, Android, monetization, privacy/consent, and operations end‑to‑end.
     <ul>
       <li>
-        Designed, built, and maintained the platform end‑to‑end.
+        Shipped user‑facing features across web, Android, and Android TV, including premium zapping, favorites, EPG improvements,
+        playback fixes, and usability improvements based on real user feedback.
       </li>
       <li>
-        Developed backend services in Python and Supabase; frontend in React and Hugo; native Android application.
+        Developed backend services in Python and Supabase; frontend in React, Next.js, and Hugo; native Android application.
       </li>
       <li>
         Featured in major Spanish media including Xataka, El Español, Cinco Días, El Confidencial, Computer Hoy, and ADSLZone.

@@ -8,7 +8,7 @@
   showPercentage: false
   color: primary
 
-- name: React & Typescript
+- name: React & TypeScript
   percentage: 100
   showPercentage: false
   color: info

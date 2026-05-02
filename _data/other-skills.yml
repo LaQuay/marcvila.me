@@ -3,12 +3,12 @@
   showPercentage: false
   color: dark
 
-- name: Cloud & SaaS Platforms (GCP, AWS)
+- name: Cloud & IoT Platforms
   percentage: 100
   showPercentage: false
   color: dark
 
-- name: Data & IoT
+- name: Product Engineering
   percentage: 100
   showPercentage: false
   color: dark
